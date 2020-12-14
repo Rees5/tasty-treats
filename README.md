@@ -1,6 +1,6 @@
-##APIs
--Fixer.io https://fixer.io/ for exchange rates
--Gogle maps api
+## APIs
+- Fixer.io https://fixer.io/ for exchange rates
+- Gogle maps api
 ## Built With :heart:
 - Laravel full-stack PHP framework
 - OctoberCMS foundation library
