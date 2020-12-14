@@ -867,7 +867,7 @@ class MainController extends BaseController
     // Helpers
     //
 
-    public function url($path = null, $params = [])
+  /*  public function url($path = null, $params = [])
     {
         if (is_null($path))
             return $this->currentPageUrl($params);
@@ -889,8 +889,28 @@ class MainController extends BaseController
             $params = $this->bindLocationRouteParameter($params);
 
         return $this->url($path, $params);
-    }
-
+    }*/
+    public function url($path = null, $params = [])
+        {
+            if (windows_os())
+              $path = str_replace('/', '\\', $path);
+            if (is_null($path))
+                return $this->currentPageUrl($params);
+            if (!$url = $this->router->findByFile($path, $params))
+                $url = $path;
+            return URL::to($url);
+        }
+        public function pageUrl($path = null, $params = [])
+        {
+            $params = array_merge($this->router->getParameters(), $params);
+            if (!is_array($params))
+                $params = [];
+            if ($path == setting('menus_page'))
+                $params = $this->bindLocationRouteParameter($params);
+            if (windows_os())
+              $path = str_replace('/', '\\', $path);
+            return $this->url($path, $params);
+        }
     public function currentPageUrl($params = [])
     {
         $params = array_merge($this->router->getParameters(), $params);

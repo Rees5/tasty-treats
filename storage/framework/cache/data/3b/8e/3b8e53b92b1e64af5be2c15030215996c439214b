@@ -1,4 +1,4 @@
-1607948889a:1:{s:24:"eucookiebanner.blade.php";a:5:{s:8:"fileName";s:24:"eucookiebanner.blade.php";s:5:"mTime";i:1607941354;s:7:"content";s:1067:"@php
+1607962945a:1:{s:24:"eucookiebanner.blade.php";a:5:{s:8:"fileName";s:24:"eucookiebanner.blade.php";s:5:"mTime";i:1607961767;s:7:"content";s:1067:"@php
     $privacyPage = \System\Models\Pages_model::find($this->theme->gdpr_more_info_link)
 @endphp
 <div
