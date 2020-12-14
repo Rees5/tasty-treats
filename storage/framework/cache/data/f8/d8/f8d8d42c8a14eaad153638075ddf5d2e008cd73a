@@ -1,4 +1,4 @@
-1607969813a:1:{s:24:"nav\local_tabs.blade.php";a:5:{s:8:"fileName";s:24:"nav\local_tabs.blade.php";s:5:"mTime";i:1607961767;s:7:"content";s:979:"<ul id="nav-tabs" class="nav-menus nav nav-tabs">
+1607975815a:1:{s:24:"nav\local_tabs.blade.php";a:5:{s:8:"fileName";s:24:"nav\local_tabs.blade.php";s:5:"mTime";i:1607961767;s:7:"content";s:979:"<ul id="nav-tabs" class="nav-menus nav nav-tabs">
     <a
         class="nav-item nav-link {{ ($activeTab === 'menus') ? 'active' : '' }}"
         href="{{ restaurant_url('local/menus') }}"

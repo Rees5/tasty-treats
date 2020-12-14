@@ -1,4 +1,4 @@
-1607970996a:1:{s:15:"flash.blade.php";a:5:{s:8:"fileName";s:15:"flash.blade.php";s:5:"mTime";i:1607961767;s:7:"content";s:813:"@foreach (Flash::all() as $message)
+1607978043a:1:{s:15:"flash.blade.php";a:5:{s:8:"fileName";s:15:"flash.blade.php";s:5:"mTime";i:1607961767;s:7:"content";s:813:"@foreach (Flash::all() as $message)
     @if ($message['overlay'])
         <div
             data-control="flash-overlay"

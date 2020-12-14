@@ -1,4 +1,4 @@
-1607970996a:1:{s:17:"scripts.blade.php";a:5:{s:8:"fileName";s:17:"scripts.blade.php";s:5:"mTime";i:1607961767;s:7:"content";s:186:"{!! get_script_tags() !!}
+1607978043a:1:{s:17:"scripts.blade.php";a:5:{s:8:"fileName";s:17:"scripts.blade.php";s:5:"mTime";i:1607961767;s:7:"content";s:186:"{!! get_script_tags() !!}
 {!! $this->theme->ga_tracking_code !!}
 @if (!empty($this->theme->custom_js))
     <script type="text/javascript">{!! $this->theme->custom_js !!}</script>
