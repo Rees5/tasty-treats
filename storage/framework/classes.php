@@ -174,4 +174,7 @@
   'Admin\\FormWidgets\\RichEditor' => 'app\\admin\\formwidgets\\RichEditor.php',
   'Admin\\FormWidgets\\DatePicker' => 'app\\admin\\formwidgets\\DatePicker.php',
   'Admin\\FormWidgets\\MapArea' => 'app\\admin\\formwidgets\\MapArea.php',
+  'System\\Controllers\\systemlogs' => 'app\\system\\controllers\\systemlogs.php',
+  'System\\Controllers\\currencies' => 'app\\system\\controllers\\currencies.php',
+  'System\\Requests\\Currency' => 'app\\system\\requests\\Currency.php',
 );
