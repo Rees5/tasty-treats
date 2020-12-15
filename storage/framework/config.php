@@ -142,7 +142,7 @@
       'file' =>
       array (
         'driver' => 'file',
-        'path' => '/home/u236745344/domains/qweli.org/public_html/tastytreats/storage/framework/cache/data',
+        'path' => '/storage/framework/cache/data',
       ),
       'memcached' =>
       array (
@@ -261,7 +261,7 @@
       'local' =>
       array (
         'driver' => 'local',
-        'root' => '/home/u236745344/domains/qweli.org/public_html/tastytreats/storage/app',
+        'root' => '/storage/app',
       ),
       'media' =>
       array (
@@ -271,7 +271,7 @@
       'public' =>
       array (
         'driver' => 'local',
-        'root' => '/home/u236745344/domains/qweli.org/public_html/tastytreats/storage/app/public',
+        'root' => '/storage/app/public',
         'url' => '/storage',
         'visibility' => 'public',
       ),
@@ -316,13 +316,13 @@
       'single' =>
       array (
         'driver' => 'single',
-        'path' => '/home/u236745344/domains/qweli.org/public_html/tastytreats/storage/logs/system.log',
+        'path' => '/storage/logs/system.log',
         'level' => 'debug',
       ),
       'daily' =>
       array (
         'driver' => 'daily',
-        'path' => '/home/u236745344/domains/qweli.org/public_html/tastytreats/storage/logs/system.log',
+        'path' => '/storage/logs/system.log',
         'level' => 'debug',
         'days' => 14,
       ),
@@ -371,7 +371,7 @@
       ),
       'emergency' =>
       array (
-        'path' => '/home/u236745344/domains/qweli.org/public_html/tastytreats/storage/logs/system.log',
+        'path' => '/storage/logs/system.log',
       ),
     ),
   ),
@@ -394,7 +394,7 @@
       'theme' => 'default',
       'paths' =>
       array (
-        0 => '/home/u236745344/domains/qweli.org/public_html/tastytreats/resources/views/vendor/mail',
+        0 => '/resources/views/vendor/mail',
       ),
     ),
   ),
@@ -466,7 +466,7 @@
     'lifetime' => 120,
     'expire_on_close' => false,
     'encrypt' => false,
-    'files' => '/home/u236745344/domains/qweli.org/public_html/tastytreats/storage/framework/sessions',
+    'files' => '/storage/framework/sessions',
     'connection' => NULL,
     'table' => 'sessions',
     'store' => NULL,
@@ -497,7 +497,7 @@
     'enableRoutesCache' => false,
     'urlMapCacheTtl' => 10,
     'parsedTemplateCacheTTL' => 10,
-    'parsedTemplateCachePath' => '/home/u236745344/domains/qweli.org/public_html/tastytreats/storage/system/cache',
+    'parsedTemplateCachePath' => '/storage/system/cache',
     'assets' =>
     array (
       'media' =>
@@ -522,9 +522,9 @@
   array (
     'paths' =>
     array (
-      0 => '/home/u236745344/domains/qweli.org/public_html/tastytreats/views',
+      0 => '/views',
     ),
-    'compiled' => '/home/u236745344/domains/qweli.org/public_html/tastytreats/storage/framework/views',
+    'compiled' => '/storage/framework/views',
   ),
   'image' =>
   array (
