@@ -41,11 +41,11 @@ return [
 
         'mysql' => [
             'driver' => 'mysql',
-            'host' => '127.0.0.1',
+            'host' => '194.5.156.94',
             'port' => '3306',
-            'database' => 'tasty',
-            'username' => 'root',
-            'password' => '',
+            'database' => 'u236745344_tasty',
+            'username' => 'u236745344_tasty	',
+            'password' => 'Greatest1724',
             'unix_socket' => '',
             'charset' => 'utf8mb4',
             'collation' => 'utf8mb4_unicode_ci',
@@ -56,11 +56,11 @@ return [
 
         'pgsql' => [
             'driver' => 'pgsql',
-            'host' => '127.0.0.1',
+            'host' => '194.5.156.94',
             'port' => 5432,
-            'database' => 'database',
-            'username' => 'username',
-            'password' => 'password',
+            'database' => 'u236745344_tasty',
+            'username' => 'u236745344_tasty	',
+            'password' => 'Greatest1724',
             'charset' => 'utf8',
             'prefix' => '',
             'schema' => 'public',
@@ -69,11 +69,11 @@ return [
 
         'sqlsrv' => [
             'driver' => 'sqlsrv',
-            'host' => 'localhost',
+            'host' => '194.5.156.94',
             'port' => 1433,
-            'database' => 'database',
-            'username' => 'username',
-            'password' => 'password',
+            'database' => 'u236745344_tasty',
+            'username' => 'u236745344_tasty	',
+            'password' => 'Greatest1724',
             'charset' => 'utf8',
             'prefix' => '',
             'odbc' => TRUE,
@@ -116,14 +116,14 @@ return [
         ],
 
         'default' => [
-            'host' => '127.0.0.1',
+            'host' => '194.5.156.94',
             'password' => null,
             'port' => 6379,
             'database' => 0,
         ],
 
         'cache' => [
-            'host' => '127.0.0.1',
+            'host' => '194.5.156.94',
             'password' => null,
             'port' => 6379,
             'database' => 1,
