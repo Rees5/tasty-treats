@@ -1,26 +1,22 @@
 name: Node CI
 
 on: [push]
-
 jobs:
-  build:
+    build:
+        runs-on: ubuntu-18.04
+        steps:
+            -   uses: actions/checkout@v1
 
-    runs-on: ubuntu-latest
+            -   name: Setup SSH Keys and known_hosts
+                env:
+                    SSH_AUTH_SOCK: /tmp/ssh_agent.sock
+                run: |
+                    mkdir -p ~/.ssh
+                    ssh-keyscan github.com >> ~/.ssh/known_hosts
+                    ssh-agent -a $SSH_AUTH_SOCK > /dev/null
+                    ssh-add - <<< "${{ secrets.SERVER_SSH_KEY }}"
 
-    steps:
-    - uses: actions/checkout@v1
-    - name: Install Node.js
-      uses: actions/setup-node@v1
-      with:
-        node-version: '10.x'
-    - name: Install npm dependencies
-      run: npm install
-    - name: Run build task
-      run: npm run build --if-present
-    - name: Deploy to Server
-      uses: easingthemes/ssh-deploy@v2.1.5
-      env:
-          SSH_PRIVATE_KEY: ${{ secrets.SERVER_SSH_KEY }}
-          ARGS: "-rltgoDzvO --delete"
-          SOURCE: "dist/"
-          
+            -   name: Some task that fetches dependencies
+                env:
+                    SSH_AUTH_SOCK: /tmp/ssh_agent.sock
+                run: ./fetch-deps.sh
