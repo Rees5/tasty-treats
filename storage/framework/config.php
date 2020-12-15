@@ -1,5 +1,5 @@
 <?php return array (
-  'app' => 
+  'app' =>
   array (
     'name' => 'Tasty Treats',
     'env' => 'development',
@@ -10,7 +10,7 @@
     'fallback_locale' => 'en',
     'key' => 'base64:zoyVnXDJ7eogRzV1xS5kXmy5tEFNGg5jRzYOjkP+tYc=',
     'cipher' => 'AES-256-CBC',
-    'providers' => 
+    'providers' =>
     array (
       0 => 'Illuminate\\Broadcasting\\BroadcastServiceProvider',
       1 => 'Illuminate\\Bus\\BusServiceProvider',
@@ -38,7 +38,7 @@
       23 => 'Igniter\\Flame\\Validation\\ValidationServiceProvider',
       24 => 'System\\ServiceProvider',
     ),
-    'aliases' => 
+    'aliases' =>
     array (
       'App' => 'Illuminate\\Support\\Facades\\App',
       'Artisan' => 'Illuminate\\Support\\Facades\\Artisan',
@@ -90,75 +90,75 @@
       'ValidationException' => 'Igniter\\Flame\\Exception\\ValidationException',
     ),
   ),
-  'broadcasting' => 
+  'broadcasting' =>
   array (
     'default' => 'null',
-    'connections' => 
+    'connections' =>
     array (
-      'pusher' => 
+      'pusher' =>
       array (
         'driver' => 'pusher',
         'key' => NULL,
         'secret' => NULL,
         'app_id' => NULL,
-        'options' => 
+        'options' =>
         array (
         ),
       ),
-      'redis' => 
+      'redis' =>
       array (
         'driver' => 'redis',
         'connection' => 'default',
       ),
-      'log' => 
+      'log' =>
       array (
         'driver' => 'log',
       ),
-      'null' => 
+      'null' =>
       array (
         'driver' => 'null',
       ),
     ),
   ),
-  'cache' => 
+  'cache' =>
   array (
     'default' => 'file',
-    'stores' => 
+    'stores' =>
     array (
-      'apc' => 
+      'apc' =>
       array (
         'driver' => 'apc',
       ),
-      'array' => 
+      'array' =>
       array (
         'driver' => 'array',
       ),
-      'database' => 
+      'database' =>
       array (
         'driver' => 'database',
         'table' => 'cache',
         'connection' => NULL,
       ),
-      'file' => 
+      'file' =>
       array (
         'driver' => 'file',
-        'path' => 'C:\\xampp\\htdocs\\laravel\\tasty\\setup-master\\storage\\framework/cache/data',
+        'path' => '\\home\\u236745344\\domains\\qweli.org\\public_html\\tastytreats\\storage\\framework/cache/data',
       ),
-      'memcached' => 
+      'memcached' =>
       array (
         'driver' => 'memcached',
         'persistent_id' => NULL,
-        'sasl' => 
+        'sasl' =>
         array (
           0 => NULL,
           1 => NULL,
         ),
-        'options' => 
+        'options' =>
         array (
         ),
-        'servers' => 
+        'servers' =>
         array (
-          0 => 
+          0 =>
           array (
             'host' => '127.0.0.1',
             'port' => 11211,
@@ -166,7 +166,7 @@
           ),
         ),
       ),
-      'redis' => 
+      'redis' =>
       array (
         'driver' => 'redis',
         'connection' => 'default',
@@ -174,18 +174,18 @@
     ),
     'prefix' => 'tastyigniter_cache',
   ),
-  'database' => 
+  'database' =>
   array (
     'default' => 'mysql',
-    'connections' => 
+    'connections' =>
     array (
-      'sqlite' => 
+      'sqlite' =>
       array (
         'driver' => 'sqlite',
         'database' => 'storage/database.sqlite',
         'prefix' => '',
       ),
-      'mysql' => 
+      'mysql' =>
       array (
         'driver' => 'mysql',
         'host' => '194.5.156.94',
@@ -200,7 +200,7 @@
         'strict' => false,
         'engine' => NULL,
       ),
-      'pgsql' => 
+      'pgsql' =>
       array (
         'driver' => 'pgsql',
         'host' => '194.5.156.94',
@@ -213,7 +213,7 @@
         'schema' => 'public',
         'sslmode' => 'prefer',
       ),
-      'sqlsrv' => 
+      'sqlsrv' =>
       array (
         'driver' => 'sqlsrv',
         'host' => '194.5.156.94',
@@ -228,22 +228,22 @@
       ),
     ),
     'migrations' => 'migrations',
-    'redis' => 
+    'redis' =>
     array (
       'client' => 'phpredis',
-      'options' => 
+      'options' =>
       array (
         'cluster' => 'redis',
         'prefix' => 'tastyigniter_database_',
       ),
-      'default' => 
+      'default' =>
       array (
         'host' => '194.5.156.94',
         'password' => NULL,
         'port' => 6379,
         'database' => 0,
       ),
-      'cache' => 
+      'cache' =>
       array (
         'host' => '194.5.156.94',
         'password' => NULL,
@@ -252,30 +252,30 @@
       ),
     ),
   ),
-  'filesystems' => 
+  'filesystems' =>
   array (
     'default' => 'local',
     'cloud' => 's3',
-    'disks' => 
+    'disks' =>
     array (
-      'local' => 
+      'local' =>
       array (
         'driver' => 'local',
-        'root' => 'C:\\xampp\\htdocs\\laravel\\tasty\\setup-master\\storage\\app',
+        'root' => '\\home\\u236745344\\domains\\qweli.org\\public_html\\tastytreats\\storage\\app',
       ),
-      'media' => 
+      'media' =>
       array (
         'driver' => 'local',
         'root' => 'C:\\xampp\\htdocs\\laravel\\tasty\\setup-master/assets\\media',
       ),
-      'public' => 
+      'public' =>
       array (
         'driver' => 'local',
-        'root' => 'C:\\xampp\\htdocs\\laravel\\tasty\\setup-master\\storage\\app/public',
+        'root' => '\\home\\u236745344\\domains\\qweli.org\\public_html\\tastytreats\\storage\\app/public',
         'url' => '/storage',
         'visibility' => 'public',
       ),
-      's3' => 
+      's3' =>
       array (
         'driver' => 's3',
         'key' => NULL,
@@ -285,48 +285,48 @@
       ),
     ),
   ),
-  'hashing' => 
+  'hashing' =>
   array (
     'driver' => 'bcrypt',
-    'bcrypt' => 
+    'bcrypt' =>
     array (
       'rounds' => 10,
     ),
-    'argon' => 
+    'argon' =>
     array (
       'memory' => 1024,
       'threads' => 2,
       'time' => 2,
     ),
   ),
-  'logging' => 
+  'logging' =>
   array (
     'default' => 'stack',
-    'channels' => 
+    'channels' =>
     array (
-      'stack' => 
+      'stack' =>
       array (
         'driver' => 'stack',
-        'channels' => 
+        'channels' =>
         array (
           0 => 'single',
         ),
         'ignore_exceptions' => false,
       ),
-      'single' => 
+      'single' =>
       array (
         'driver' => 'single',
-        'path' => 'C:\\xampp\\htdocs\\laravel\\tasty\\setup-master\\storage\\logs/system.log',
+        'path' => '\\home\\u236745344\\domains\\qweli.org\\public_html\\tastytreats\\storage\\logs/system.log',
         'level' => 'debug',
       ),
-      'daily' => 
+      'daily' =>
       array (
         'driver' => 'daily',
-        'path' => 'C:\\xampp\\htdocs\\laravel\\tasty\\setup-master\\storage\\logs/system.log',
+        'path' => '\\home\\u236745344\\domains\\qweli.org\\public_html\\tastytreats\\storage\\logs/system.log',
         'level' => 'debug',
         'days' => 14,
       ),
-      'slack' => 
+      'slack' =>
       array (
         'driver' => 'slack',
         'url' => NULL,
@@ -334,53 +334,53 @@
         'emoji' => ':boom:',
         'level' => 'critical',
       ),
-      'papertrail' => 
+      'papertrail' =>
       array (
         'driver' => 'monolog',
         'level' => 'debug',
         'handler' => 'Monolog\\Handler\\SyslogUdpHandler',
-        'handler_with' => 
+        'handler_with' =>
         array (
           'host' => NULL,
           'port' => NULL,
         ),
       ),
-      'stderr' => 
+      'stderr' =>
       array (
         'driver' => 'monolog',
         'handler' => 'Monolog\\Handler\\StreamHandler',
-        'with' => 
+        'with' =>
         array (
           'stream' => 'php://stderr',
         ),
       ),
-      'syslog' => 
+      'syslog' =>
       array (
         'driver' => 'syslog',
         'level' => 'debug',
       ),
-      'errorlog' => 
+      'errorlog' =>
       array (
         'driver' => 'errorlog',
         'level' => 'debug',
       ),
-      'null' => 
+      'null' =>
       array (
         'driver' => 'monolog',
         'handler' => 'Monolog\\Handler\\NullHandler',
       ),
-      'emergency' => 
+      'emergency' =>
       array (
-        'path' => 'C:\\xampp\\htdocs\\laravel\\tasty\\setup-master\\storage\\logs/system.log',
+        'path' => '\\home\\u236745344\\domains\\qweli.org\\public_html\\tastytreats\\storage\\logs/system.log',
       ),
     ),
   ),
-  'mail' => 
+  'mail' =>
   array (
     'driver' => 'smtp',
     'host' => 'smtp.mailgun.org',
     'port' => 587,
-    'from' => 
+    'from' =>
     array (
       'address' => 'hello@example.com',
       'name' => 'Example',
@@ -389,39 +389,39 @@
     'username' => NULL,
     'password' => NULL,
     'sendmail' => '/usr/sbin/sendmail -bs',
-    'markdown' => 
+    'markdown' =>
     array (
       'theme' => 'default',
-      'paths' => 
+      'paths' =>
       array (
-        0 => 'C:\\xampp\\htdocs\\laravel\\tasty\\setup-master\\resources\\views/vendor/mail',
+        0 => '\\home\\u236745344\\domains\\qweli.org\\public_html\\tastytreats\\resources\\views/vendor/mail',
       ),
     ),
   ),
-  'queue' => 
+  'queue' =>
   array (
     'default' => 'sync',
-    'connections' => 
+    'connections' =>
     array (
-      'sync' => 
+      'sync' =>
       array (
         'driver' => 'sync',
       ),
-      'database' => 
+      'database' =>
       array (
         'driver' => 'database',
         'table' => 'jobs',
         'queue' => 'default',
         'retry_after' => 90,
       ),
-      'beanstalkd' => 
+      'beanstalkd' =>
       array (
         'driver' => 'beanstalkd',
         'host' => 'localhost',
         'queue' => 'default',
         'retry_after' => 90,
       ),
-      'sqs' => 
+      'sqs' =>
       array (
         'driver' => 'sqs',
         'key' => 'your-public-key',
@@ -430,7 +430,7 @@
         'queue' => 'your-queue-name',
         'region' => 'us-east-1',
       ),
-      'redis' => 
+      'redis' =>
       array (
         'driver' => 'redis',
         'connection' => 'default',
@@ -439,38 +439,38 @@
         'block_for' => NULL,
       ),
     ),
-    'failed' => 
+    'failed' =>
     array (
       'driver' => 'database',
       'database' => 'mysql',
       'table' => 'failed_jobs',
     ),
   ),
-  'services' => 
+  'services' =>
   array (
-    'mailgun' => 
+    'mailgun' =>
     array (
       'domain' => NULL,
       'secret' => NULL,
     ),
-    'ses' => 
+    'ses' =>
     array (
       'key' => NULL,
       'secret' => NULL,
       'region' => 'us-east-1',
     ),
   ),
-  'session' => 
+  'session' =>
   array (
     'driver' => 'file',
     'lifetime' => 120,
     'expire_on_close' => false,
     'encrypt' => false,
-    'files' => 'C:\\xampp\\htdocs\\laravel\\tasty\\setup-master\\storage\\framework/sessions',
+    'files' => '\\home\\u236745344\\domains\\qweli.org\\public_html\\tastytreats\\storage\\framework/sessions',
     'connection' => NULL,
     'table' => 'sessions',
     'store' => NULL,
-    'lottery' => 
+    'lottery' =>
     array (
       0 => 2,
       1 => 100,
@@ -482,13 +482,13 @@
     'http_only' => true,
     'same_site' => NULL,
   ),
-  'system' => 
+  'system' =>
   array (
     'defaultTheme' => 'demo',
     'adminUri' => '/admin',
     'themesDir' => '/themes',
     'assetsDir' => '/assets',
-    'modules' => 
+    'modules' =>
     array (
       0 => 'System',
       1 => 'Admin',
@@ -497,16 +497,16 @@
     'enableRoutesCache' => false,
     'urlMapCacheTtl' => 10,
     'parsedTemplateCacheTTL' => 10,
-    'parsedTemplateCachePath' => 'C:\\xampp\\htdocs\\laravel\\tasty\\setup-master\\storage\\system/cache',
-    'assets' => 
+    'parsedTemplateCachePath' => '\\home\\u236745344\\domains\\qweli.org\\public_html\\tastytreats\\storage\\system/cache',
+    'assets' =>
     array (
-      'media' => 
+      'media' =>
       array (
         'disk' => 'media',
         'folder' => 'uploads',
         'path' => '/assets/media/uploads',
       ),
-      'attachment' => 
+      'attachment' =>
       array (
         'disk' => 'media',
         'folder' => 'attachments',
@@ -518,30 +518,30 @@
     'filePermissions' => '777',
     'folderPermissions' => '777',
   ),
-  'view' => 
+  'view' =>
   array (
-    'paths' => 
+    'paths' =>
     array (
-      0 => 'C:\\xampp\\htdocs\\laravel\\tasty\\setup-master\\views',
+      0 => '\\home\\u236745344\\domains\\qweli.org\\public_html\\tastytreats\\views',
     ),
-    'compiled' => 'C:\\xampp\\htdocs\\laravel\\tasty\\setup-master\\storage\\framework\\views',
+    'compiled' => '\\home\\u236745344\\domains\\qweli.org\\public_html\\tastytreats\\storage\\framework\\views',
   ),
-  'image' => 
+  'image' =>
   array (
     'driver' => 'gd',
   ),
-  'currency' => 
+  'currency' =>
   array (
     'default' => 'USD',
     'converter' => 'openexchangerates',
-    'converters' => 
+    'converters' =>
     array (
-      'fixerio' => 
+      'fixerio' =>
       array (
         'class' => 'Igniter\\Flame\\Currency\\Converters\\FixerIO',
         'apiKey' => '',
       ),
-      'openexchangerates' => 
+      'openexchangerates' =>
       array (
         'class' => 'Igniter\\Flame\\Currency\\Converters\\OpenExchangeRates',
         'apiKey' => '',
@@ -551,22 +551,22 @@
     'cache_driver' => NULL,
     'ratesCacheDuration' => 4320,
     'formatter' => NULL,
-    'formatters' => 
+    'formatters' =>
     array (
-      'php_intl' => 
+      'php_intl' =>
       array (
         'class' => 'Igniter\\Flame\\Currency\\Formatters\\PHPIntl',
       ),
     ),
   ),
-  'geocoder' => 
+  'geocoder' =>
   array (
     'default' => 'chain',
-    'providers' => 
+    'providers' =>
     array (
-      'google' => 
+      'google' =>
       array (
-        'endpoints' => 
+        'endpoints' =>
         array (
           'geocode' => 'https://maps.googleapis.com/maps/api/geocode/json?address=%s',
           'reverse' => 'https://maps.googleapis.com/maps/api/geocode/json?latlng=%F,%F',
@@ -575,9 +575,9 @@
         'region' => 'GB',
         'apiKey' => NULL,
       ),
-      'nominatim' => 
+      'nominatim' =>
       array (
-        'endpoints' => 
+        'endpoints' =>
         array (
           'geocode' => 'https://nominatim.openstreetmap.org/search?q=%s&format=json&addressdetails=1&limit=%d',
           'reverse' => 'https://nominatim.openstreetmap.org/reverse?format=json&lat=%F&lon=%F&addressdetails=1&zoom=%d',
@@ -586,26 +586,26 @@
         'region' => 'GB',
       ),
     ),
-    'cache' => 
+    'cache' =>
     array (
       'store' => NULL,
       'duration' => 4320,
     ),
   ),
-  'trustedproxy' => 
+  'trustedproxy' =>
   array (
     'proxies' => NULL,
     'headers' => 30,
   ),
-  'tinker' => 
+  'tinker' =>
   array (
-    'commands' => 
+    'commands' =>
     array (
     ),
-    'alias' => 
+    'alias' =>
     array (
     ),
-    'dont_alias' => 
+    'dont_alias' =>
     array (
       0 => 'App\\Nova',
     ),
