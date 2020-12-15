@@ -1,1 +1,0 @@
-{site_name} reservation confirmation - {reservation_number}

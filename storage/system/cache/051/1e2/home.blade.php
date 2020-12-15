@@ -1,6 +1,6 @@
 <?php 
 /* C:\xampp\htdocs\laravel\tasty\setup-master\themes\tastyigniter-orange/_pages/home.blade.php */
-class Pagic5fd7c0655a619447684710_cb4a3fcbd6f5807f051a37e3db683112Class extends \Main\Template\Code\PageCode
+class Pagic5fd85c7871741064834938_21486159d65d2c5604c4cb23fe481f0bClass extends \Main\Template\Code\PageCode
 {
 
 }

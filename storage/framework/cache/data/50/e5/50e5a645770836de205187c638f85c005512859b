@@ -1,4 +1,4 @@
-1608012737a:1:{s:14:"head.blade.php";a:5:{s:8:"fileName";s:14:"head.blade.php";s:5:"mTime";i:1607961767;s:7:"content";s:642:"{!! get_metas() !!}
+1608014978a:1:{s:14:"head.blade.php";a:5:{s:8:"fileName";s:14:"head.blade.php";s:5:"mTime";i:1607961767;s:7:"content";s:642:"{!! get_metas() !!}
 <meta name="csrf-token" content="{{ csrf_token() }}">
 @if (trim($favicon = $this->theme->favicon, '/'))
     <link href="{{ uploads_url($favicon) }}" rel="shortcut icon" type="image/ico">
