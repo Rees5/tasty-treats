@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => 'http://localhost/laravel/tasty/setup-master/',
+    'url' => 'http://tastytreats.qweli.org/',
 
     /*
     |--------------------------------------------------------------------------
