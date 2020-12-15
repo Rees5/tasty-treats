@@ -18,5 +18,6 @@ jobs:
 
             -   name: Some task that fetches dependencies
                 env:
+                    key: eval $(ssh-agent) > /dev/null
                     SSH_AUTH_SOCK: /tmp/ssh_agent.sock
                 run: ./fetch-deps.sh
