@@ -270,7 +270,9 @@ $categories = Category::with('ancestors')->paginate(30);
 // in view for breadcrumbs:
 @foreach($categories as $i => $category)
     <small>{{ $category->ancestors->count() ? implode(' > ', $category->ancestors->pluck('name')->toArray()) : 'Top Level' }}</small><br>
-    {{ $category->name }}
+    {% raw %}
+      {{ $category->name }}
+    {% endraw %}
 @endforeach
 ```
 
