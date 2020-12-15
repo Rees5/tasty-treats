@@ -1,16 +1,20 @@
-name: Node CI
+name: Command via SSH
 
-on: [push]
+on: push
+
 jobs:
-    build:
-        runs-on: ubuntu-18.04
-        steps:
-            - name: ls -a via ssh
-            - uses: garygrossgarten/github-action-ssh@release
-              with:
-                        command: ls -a
-                        host: ${{ secrets.HOST }}
-                        username: u236745344
-                        passphrase: ${{ secrets.PASSPHRASE }}
-                        privateKey: ${{ secrets.SSH_PRIVATE_KEY}}
-                        port: ${{ secrets.PORT }}
+  build:
+    runs-on: ubuntu-18.04
+
+    steps:
+      - name: ls -a via OPEN SSH Private Key
+        uses: garygrossgarten/github-action-ssh@release
+        with:
+          command: ls -a
+          host: ${{ secrets.HOST }}
+          username: u236745344
+          password: ${{ secrets.PASSPHRASE }}
+          privateKey: ${{ secrets.SSH_PRIVATE_KEY}}
+          port: ${{ secrets.PORT }}
+        env:
+          CI: true
