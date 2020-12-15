@@ -12,82 +12,82 @@
     'cipher' => 'AES-256-CBC',
     'providers' =>
     array (
-      0 => 'Illuminate\\Broadcasting\\BroadcastServiceProvider',
-      1 => 'Illuminate\\Bus\\BusServiceProvider',
-      2 => 'Illuminate\\Cache\\CacheServiceProvider',
-      3 => 'Illuminate\\Cookie\\CookieServiceProvider',
-      4 => 'Illuminate\\Encryption\\EncryptionServiceProvider',
-      5 => 'Illuminate\\Foundation\\Providers\\FoundationServiceProvider',
-      6 => 'Illuminate\\Hashing\\HashServiceProvider',
-      7 => 'Illuminate\\Pagination\\PaginationServiceProvider',
-      8 => 'Illuminate\\Pipeline\\PipelineServiceProvider',
-      9 => 'Illuminate\\Queue\\QueueServiceProvider',
-      10 => 'Illuminate\\Redis\\RedisServiceProvider',
-      11 => 'Illuminate\\Session\\SessionServiceProvider',
-      12 => 'Illuminate\\View\\ViewServiceProvider',
-      13 => 'Laravel\\Tinker\\TinkerServiceProvider',
-      14 => 'Igniter\\Flame\\Foundation\\Providers\\ConsoleSupportServiceProvider',
-      15 => 'Igniter\\Flame\\Database\\DatabaseServiceProvider',
-      16 => 'Igniter\\Flame\\Filesystem\\FilesystemServiceProvider',
-      17 => 'Igniter\\Flame\\Flash\\FlashServiceProvider',
-      18 => 'Igniter\\Flame\\Html\\HtmlServiceProvider',
-      19 => 'Igniter\\Flame\\Mail\\MailServiceProvider',
-      20 => 'Igniter\\Flame\\Scaffold\\ScaffoldServiceProvider',
-      21 => 'Igniter\\Flame\\Setting\\SettingServiceProvider',
-      22 => 'Igniter\\Flame\\Html\\UrlServiceProvider',
-      23 => 'Igniter\\Flame\\Validation\\ValidationServiceProvider',
-      24 => 'System\\ServiceProvider',
+      0 => 'Illuminate/Broadcasting/BroadcastServiceProvider',
+      1 => 'Illuminate/Bus/BusServiceProvider',
+      2 => 'Illuminate/Cache/CacheServiceProvider',
+      3 => 'Illuminate/Cookie/CookieServiceProvider',
+      4 => 'Illuminate/Encryption/EncryptionServiceProvider',
+      5 => 'Illuminate/Foundation/Providers/FoundationServiceProvider',
+      6 => 'Illuminate/Hashing/HashServiceProvider',
+      7 => 'Illuminate/Pagination/PaginationServiceProvider',
+      8 => 'Illuminate/Pipeline/PipelineServiceProvider',
+      9 => 'Illuminate/Queue/QueueServiceProvider',
+      10 => 'Illuminate/Redis/RedisServiceProvider',
+      11 => 'Illuminate/Session/SessionServiceProvider',
+      12 => 'Illuminate/View/ViewServiceProvider',
+      13 => 'Laravel/Tinker/TinkerServiceProvider',
+      14 => 'Igniter/Flame/Foundation/Providers/ConsoleSupportServiceProvider',
+      15 => 'Igniter/Flame/Database/DatabaseServiceProvider',
+      16 => 'Igniter/Flame/Filesystem/FilesystemServiceProvider',
+      17 => 'Igniter/Flame/Flash/FlashServiceProvider',
+      18 => 'Igniter/Flame/Html/HtmlServiceProvider',
+      19 => 'Igniter/Flame/Mail/MailServiceProvider',
+      20 => 'Igniter/Flame/Scaffold/ScaffoldServiceProvider',
+      21 => 'Igniter/Flame/Setting/SettingServiceProvider',
+      22 => 'Igniter/Flame/Html/UrlServiceProvider',
+      23 => 'Igniter/Flame/Validation/ValidationServiceProvider',
+      24 => 'System/ServiceProvider',
     ),
     'aliases' =>
     array (
-      'App' => 'Illuminate\\Support\\Facades\\App',
-      'Artisan' => 'Illuminate\\Support\\Facades\\Artisan',
-      'Broadcast' => 'Illuminate\\Support\\Facades\\Broadcast',
-      'Bus' => 'Illuminate\\Support\\Facades\\Bus',
-      'Cache' => 'Illuminate\\Support\\Facades\\Cache',
-      'Config' => 'Illuminate\\Support\\Facades\\Config',
-      'Cookie' => 'Illuminate\\Support\\Facades\\Cookie',
-      'Crypt' => 'Illuminate\\Support\\Facades\\Crypt',
-      'DB' => 'Illuminate\\Support\\Facades\\DB',
-      'Eloquent' => 'Illuminate\\Database\\Eloquent\\Model',
-      'Event' => 'Illuminate\\Support\\Facades\\Event',
-      'Input' => 'Illuminate\\Support\\Facades\\Request',
-      'Hash' => 'Illuminate\\Support\\Facades\\Hash',
-      'Lang' => 'Illuminate\\Support\\Facades\\Lang',
-      'Log' => 'Illuminate\\Support\\Facades\\Log',
-      'Mail' => 'Illuminate\\Support\\Facades\\Mail',
-      'Queue' => 'Illuminate\\Support\\Facades\\Queue',
-      'Redirect' => 'Illuminate\\Support\\Facades\\Redirect',
-      'Redis' => 'Illuminate\\Support\\Facades\\Redis',
-      'Request' => 'Illuminate\\Support\\Facades\\Request',
-      'Response' => 'Illuminate\\Support\\Facades\\Response',
-      'Route' => 'Illuminate\\Support\\Facades\\Route',
-      'Schema' => 'Illuminate\\Support\\Facades\\Schema',
-      'Session' => 'Illuminate\\Support\\Facades\\Session',
-      'Storage' => 'Illuminate\\Support\\Facades\\Storage',
-      'URL' => 'Illuminate\\Support\\Facades\\URL',
-      'Validator' => 'Illuminate\\Support\\Facades\\Validator',
-      'View' => 'Illuminate\\Support\\Facades\\View',
-      'Assets' => 'System\\Facades\\Assets',
-      'Country' => 'System\\Facades\\Country',
-      'File' => 'Igniter\\Flame\\Support\\Facades\\File',
-      'Flash' => 'Igniter\\Flame\\Flash\\Facades\\Flash',
-      'Form' => 'Igniter\\Flame\\Html\\FormFacade',
-      'Html' => 'Igniter\\Flame\\Html\\HtmlFacade',
-      'Model' => 'Igniter\\Flame\\Database\\Model',
-      'Parameter' => 'Igniter\\Flame\\Setting\\Facades\\Parameter',
-      'Setting' => 'Igniter\\Flame\\Setting\\Facades\\Setting',
-      'Str' => 'Igniter\\Flame\\Support\\Str',
-      'Admin' => 'Admin\\Facades\\Admin',
-      'AdminAuth' => 'Admin\\Facades\\AdminAuth',
-      'AdminLocation' => 'Admin\\Facades\\AdminLocation',
-      'AdminMenu' => 'Admin\\Facades\\AdminMenu',
-      'Auth' => 'Main\\Facades\\Auth',
-      'Template' => 'Admin\\Facades\\Template',
-      'SystemException' => 'Igniter\\Flame\\Exception\\SystemException',
-      'ApplicationException' => 'Igniter\\Flame\\Exception\\ApplicationException',
-      'AjaxException' => 'Igniter\\Flame\\Exception\\AjaxException',
-      'ValidationException' => 'Igniter\\Flame\\Exception\\ValidationException',
+      'App' => 'Illuminate/Support/Facades/App',
+      'Artisan' => 'Illuminate/Support/Facades/Artisan',
+      'Broadcast' => 'Illuminate/Support/Facades/Broadcast',
+      'Bus' => 'Illuminate/Support/Facades/Bus',
+      'Cache' => 'Illuminate/Support/Facades/Cache',
+      'Config' => 'Illuminate/Support/Facades/Config',
+      'Cookie' => 'Illuminate/Support/Facades/Cookie',
+      'Crypt' => 'Illuminate/Support/Facades/Crypt',
+      'DB' => 'Illuminate/Support/Facades/DB',
+      'Eloquent' => 'Illuminate/Database/Eloquent/Model',
+      'Event' => 'Illuminate/Support/Facades/Event',
+      'Input' => 'Illuminate/Support/Facades/Request',
+      'Hash' => 'Illuminate/Support/Facades/Hash',
+      'Lang' => 'Illuminate/Support/Facades/Lang',
+      'Log' => 'Illuminate/Support/Facades/Log',
+      'Mail' => 'Illuminate/Support/Facades/Mail',
+      'Queue' => 'Illuminate/Support/Facades/Queue',
+      'Redirect' => 'Illuminate/Support/Facades/Redirect',
+      'Redis' => 'Illuminate/Support/Facades/Redis',
+      'Request' => 'Illuminate/Support/Facades/Request',
+      'Response' => 'Illuminate/Support/Facades/Response',
+      'Route' => 'Illuminate/Support/Facades/Route',
+      'Schema' => 'Illuminate/Support/Facades/Schema',
+      'Session' => 'Illuminate/Support/Facades/Session',
+      'Storage' => 'Illuminate/Support/Facades/Storage',
+      'URL' => 'Illuminate/Support/Facades/URL',
+      'Validator' => 'Illuminate/Support/Facades/Validator',
+      'View' => 'Illuminate/Support/Facades/View',
+      'Assets' => 'System/Facades/Assets',
+      'Country' => 'System/Facades/Country',
+      'File' => 'Igniter/Flame/Support/Facades/File',
+      'Flash' => 'Igniter/Flame/Flash/Facades/Flash',
+      'Form' => 'Igniter/Flame/Html/FormFacade',
+      'Html' => 'Igniter/Flame/Html/HtmlFacade',
+      'Model' => 'Igniter/Flame/Database/Model',
+      'Parameter' => 'Igniter/Flame/Setting/Facades/Parameter',
+      'Setting' => 'Igniter/Flame/Setting/Facades/Setting',
+      'Str' => 'Igniter/Flame/Support/Str',
+      'Admin' => 'Admin/Facades/Admin',
+      'AdminAuth' => 'Admin/Facades/AdminAuth',
+      'AdminLocation' => 'Admin/Facades/AdminLocation',
+      'AdminMenu' => 'Admin/Facades/AdminMenu',
+      'Auth' => 'Main/Facades/Auth',
+      'Template' => 'Admin/Facades/Template',
+      'SystemException' => 'Igniter/Flame/Exception/SystemException',
+      'ApplicationException' => 'Igniter/Flame/Exception/ApplicationException',
+      'AjaxException' => 'Igniter/Flame/Exception/AjaxException',
+      'ValidationException' => 'Igniter/Flame/Exception/ValidationException',
     ),
   ),
   'broadcasting' =>
@@ -142,7 +142,7 @@
       'file' =>
       array (
         'driver' => 'file',
-        'path' => '\\home\\u236745344\\domains\\qweli.org\\public_html\\tastytreats\\storage\\framework/cache/data',
+        'path' => '/home/u236745344/domains/qweli.org/public_html/tastytreats/storage/framework/cache/data',
       ),
       'memcached' =>
       array (
@@ -261,17 +261,17 @@
       'local' =>
       array (
         'driver' => 'local',
-        'root' => '\\home\\u236745344\\domains\\qweli.org\\public_html\\tastytreats\\storage\\app',
+        'root' => '/home/u236745344/domains/qweli.org/public_html/tastytreats/storage/app',
       ),
       'media' =>
       array (
         'driver' => 'local',
-        'root' => 'C:\\xampp\\htdocs\\laravel\\tasty\\setup-master/assets\\media',
+        'root' => 'C:/xampp/htdocs/laravel/tasty/setup-master/assets/media',
       ),
       'public' =>
       array (
         'driver' => 'local',
-        'root' => '\\home\\u236745344\\domains\\qweli.org\\public_html\\tastytreats\\storage\\app/public',
+        'root' => '/home/u236745344/domains/qweli.org/public_html/tastytreats/storage/app/public',
         'url' => '/storage',
         'visibility' => 'public',
       ),
@@ -316,13 +316,13 @@
       'single' =>
       array (
         'driver' => 'single',
-        'path' => '\\home\\u236745344\\domains\\qweli.org\\public_html\\tastytreats\\storage\\logs/system.log',
+        'path' => '/home/u236745344/domains/qweli.org/public_html/tastytreats/storage/logs/system.log',
         'level' => 'debug',
       ),
       'daily' =>
       array (
         'driver' => 'daily',
-        'path' => '\\home\\u236745344\\domains\\qweli.org\\public_html\\tastytreats\\storage\\logs/system.log',
+        'path' => '/home/u236745344/domains/qweli.org/public_html/tastytreats/storage/logs/system.log',
         'level' => 'debug',
         'days' => 14,
       ),
@@ -338,7 +338,7 @@
       array (
         'driver' => 'monolog',
         'level' => 'debug',
-        'handler' => 'Monolog\\Handler\\SyslogUdpHandler',
+        'handler' => 'Monolog/Handler/SyslogUdpHandler',
         'handler_with' =>
         array (
           'host' => NULL,
@@ -348,7 +348,7 @@
       'stderr' =>
       array (
         'driver' => 'monolog',
-        'handler' => 'Monolog\\Handler\\StreamHandler',
+        'handler' => 'Monolog/Handler/StreamHandler',
         'with' =>
         array (
           'stream' => 'php://stderr',
@@ -367,11 +367,11 @@
       'null' =>
       array (
         'driver' => 'monolog',
-        'handler' => 'Monolog\\Handler\\NullHandler',
+        'handler' => 'Monolog/Handler/NullHandler',
       ),
       'emergency' =>
       array (
-        'path' => '\\home\\u236745344\\domains\\qweli.org\\public_html\\tastytreats\\storage\\logs/system.log',
+        'path' => '/home/u236745344/domains/qweli.org/public_html/tastytreats/storage/logs/system.log',
       ),
     ),
   ),
@@ -394,7 +394,7 @@
       'theme' => 'default',
       'paths' =>
       array (
-        0 => '\\home\\u236745344\\domains\\qweli.org\\public_html\\tastytreats\\resources\\views/vendor/mail',
+        0 => '/home/u236745344/domains/qweli.org/public_html/tastytreats/resources/views/vendor/mail',
       ),
     ),
   ),
@@ -466,7 +466,7 @@
     'lifetime' => 120,
     'expire_on_close' => false,
     'encrypt' => false,
-    'files' => '\\home\\u236745344\\domains\\qweli.org\\public_html\\tastytreats\\storage\\framework/sessions',
+    'files' => '/home/u236745344/domains/qweli.org/public_html/tastytreats/storage/framework/sessions',
     'connection' => NULL,
     'table' => 'sessions',
     'store' => NULL,
@@ -497,7 +497,7 @@
     'enableRoutesCache' => false,
     'urlMapCacheTtl' => 10,
     'parsedTemplateCacheTTL' => 10,
-    'parsedTemplateCachePath' => '\\home\\u236745344\\domains\\qweli.org\\public_html\\tastytreats\\storage\\system/cache',
+    'parsedTemplateCachePath' => '/home/u236745344/domains/qweli.org/public_html/tastytreats/storage/system/cache',
     'assets' =>
     array (
       'media' =>
@@ -522,9 +522,9 @@
   array (
     'paths' =>
     array (
-      0 => '\\home\\u236745344\\domains\\qweli.org\\public_html\\tastytreats\\views',
+      0 => '/home/u236745344/domains/qweli.org/public_html/tastytreats/views',
     ),
-    'compiled' => '\\home\\u236745344\\domains\\qweli.org\\public_html\\tastytreats\\storage\\framework\\views',
+    'compiled' => '/home/u236745344/domains/qweli.org/public_html/tastytreats/storage/framework/views',
   ),
   'image' =>
   array (
@@ -538,16 +538,16 @@
     array (
       'fixerio' =>
       array (
-        'class' => 'Igniter\\Flame\\Currency\\Converters\\FixerIO',
+        'class' => 'Igniter/Flame/Currency/Converters/FixerIO',
         'apiKey' => '',
       ),
       'openexchangerates' =>
       array (
-        'class' => 'Igniter\\Flame\\Currency\\Converters\\OpenExchangeRates',
+        'class' => 'Igniter/Flame/Currency/Converters/OpenExchangeRates',
         'apiKey' => '',
       ),
     ),
-    'model' => 'Igniter\\Flame\\Currency\\Models\\Currency',
+    'model' => 'Igniter/Flame/Currency/Models/Currency',
     'cache_driver' => NULL,
     'ratesCacheDuration' => 4320,
     'formatter' => NULL,
@@ -555,7 +555,7 @@
     array (
       'php_intl' =>
       array (
-        'class' => 'Igniter\\Flame\\Currency\\Formatters\\PHPIntl',
+        'class' => 'Igniter/Flame/Currency/Formatters/PHPIntl',
       ),
     ),
   ),
@@ -607,7 +607,7 @@
     ),
     'dont_alias' =>
     array (
-      0 => 'App\\Nova',
+      0 => 'App/Nova',
     ),
   ),
 );
