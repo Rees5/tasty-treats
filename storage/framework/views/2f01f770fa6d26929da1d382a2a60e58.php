@@ -1,0 +1,1 @@
+{site_name} order confirmation - {order_number}

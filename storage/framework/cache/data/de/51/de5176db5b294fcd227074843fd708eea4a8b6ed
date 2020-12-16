@@ -1,4 +1,4 @@
-1608073307a:1:{s:16:"footer.blade.php";a:5:{s:8:"fileName";s:16:"footer.blade.php";s:5:"mTime";i:1608034070;s:7:"content";s:2147:"<div class="footer pt-5 pb-5">
+1608120863a:1:{s:16:"footer.blade.php";a:5:{s:8:"fileName";s:16:"footer.blade.php";s:5:"mTime";i:1608034070;s:7:"content";s:2147:"<div class="footer pt-5 pb-5">
     <div class="container">
         <div class="row">
             @foreach ($footerMenu->menuItems() as $navItem)

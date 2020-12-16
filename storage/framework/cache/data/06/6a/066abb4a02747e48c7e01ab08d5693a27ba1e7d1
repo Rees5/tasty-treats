@@ -1,4 +1,4 @@
-1608067255a:1:{s:24:"nav/pages_menu.blade.php";a:5:{s:8:"fileName";s:24:"nav/pages_menu.blade.php";s:5:"mTime";i:1608034070;s:7:"content";s:574:"<div class="card">
+1608119905a:1:{s:24:"nav/pages_menu.blade.php";a:5:{s:8:"fileName";s:24:"nav/pages_menu.blade.php";s:5:"mTime";i:1608034070;s:7:"content";s:574:"<div class="card">
     <div class="nav flex-column">
         @foreach ($pagesSideMenu->menuItems() as $topItem)
             @foreach ($topItem->items as $item)

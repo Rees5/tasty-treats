@@ -1,4 +1,4 @@
-1608067255a:1:{s:28:"pagination/default.blade.php";a:5:{s:8:"fileName";s:28:"pagination/default.blade.php";s:5:"mTime";i:1608034071;s:7:"content";s:1073:"@if ($paginator->hasPages())
+1608119905a:1:{s:28:"pagination/default.blade.php";a:5:{s:8:"fileName";s:28:"pagination/default.blade.php";s:5:"mTime";i:1608034071;s:7:"content";s:1073:"@if ($paginator->hasPages())
     <ul class="pagination">
         @if ($paginator->onFirstPage())
             <li class="disabled"><span>«</span></li>

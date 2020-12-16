@@ -1,4 +1,4 @@
-1608073307a:1:{s:18:"nav/logo.blade.php";a:5:{s:8:"fileName";s:18:"nav/logo.blade.php";s:5:"mTime";i:1608034070;s:7:"content";s:539:"<a class="navbar-brand" href="{{ page_url('home') }}">
+1608120863a:1:{s:18:"nav/logo.blade.php";a:5:{s:8:"fileName";s:18:"nav/logo.blade.php";s:5:"mTime";i:1608034070;s:7:"content";s:539:"<a class="navbar-brand" href="{{ page_url('home') }}">
     @if ($this->theme->logo_image)
         <img
             class="img-logo"
