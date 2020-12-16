@@ -1,0 +1,1 @@
+Your Reservation Update - <?php echo e($reservation_number); ?>
