@@ -1,4 +1,4 @@
-1608120863a:1:{s:16:"footer.blade.php";a:5:{s:8:"fileName";s:16:"footer.blade.php";s:5:"mTime";i:1608034070;s:7:"content";s:2147:"<div class="footer pt-5 pb-5">
+1608215599a:1:{s:16:"footer.blade.php";a:5:{s:8:"fileName";s:16:"footer.blade.php";s:5:"mTime";i:1608202745;s:7:"content";s:2064:"<div class="footer pt-5 pb-5">
     <div class="container">
         <div class="row">
             @foreach ($footerMenu->menuItems() as $navItem)
@@ -47,17 +47,16 @@
 
     <div class="container">
         <div class="row">
-            <div class="col p-2">
+            <div class="col p-2 myfoo_">
                 {!! sprintf(
                     lang('main::lang.site_copyright'),
                     date('Y'),
-                    setting('site_name'),
-                    lang('system::lang.system_name')
-                ).lang('system::lang.system_powered') !!}
+                    setting('site_name')
+                ) !!}
             </div>
         </div>
     </div>
-</div>";s:6:"markup";s:2147:"<div class="footer pt-5 pb-5">
+</div>";s:6:"markup";s:2064:"<div class="footer pt-5 pb-5">
     <div class="container">
         <div class="row">
             @foreach ($footerMenu->menuItems() as $navItem)
@@ -106,13 +105,12 @@
 
     <div class="container">
         <div class="row">
-            <div class="col p-2">
+            <div class="col p-2 myfoo_">
                 {!! sprintf(
                     lang('main::lang.site_copyright'),
                     date('Y'),
-                    setting('site_name'),
-                    lang('system::lang.system_name')
-                ).lang('system::lang.system_powered') !!}
+                    setting('site_name')
+                ) !!}
             </div>
         </div>
     </div>

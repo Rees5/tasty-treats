@@ -1,4 +1,4 @@
-1608120863a:1:{s:23:"local/reviews.blade.php";a:10:{s:8:"fileName";s:23:"local/reviews.blade.php";s:5:"mTime";i:1608062623;s:7:"content";s:782:"---
+1608215599a:1:{s:23:"local/reviews.blade.php";a:10:{s:8:"fileName";s:23:"local/reviews.blade.php";s:5:"mTime";i:1608062623;s:7:"content";s:782:"---
 title: 'main::lang.local.reviews.title'
 permalink: '/:location?local/reviews'
 description: ''

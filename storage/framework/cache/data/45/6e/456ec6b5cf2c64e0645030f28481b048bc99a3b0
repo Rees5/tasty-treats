@@ -1,4 +1,4 @@
-1608120863a:1:{s:14:"home.blade.php";a:12:{s:8:"fileName";s:14:"home.blade.php";s:5:"mTime";i:1608034070;s:7:"content";s:381:"---
+1608215599a:1:{s:14:"home.blade.php";a:12:{s:8:"fileName";s:14:"home.blade.php";s:5:"mTime";i:1608202413;s:7:"content";s:423:"---
 title: 'main::lang.home.title'
 permalink: /
 description: ''
@@ -12,19 +12,23 @@ layout: default
     menusPage: local/menus
 
 '[featuredItems]':
-    items: ['6', '7', '8', '9']
+    items: ['1','2','3','4','5',6', '7', '8', '9']
     limit: 3
     itemsPerRow: 3
     itemWidth: 400
     itemHeight: 300
 ---
 @component('slider')
+<p></p>
 
 @component('localSearch')
-
-@component('featuredItems')";s:6:"markup";s:77:"
+<p></p>
+@component('featuredItems')
+<p></p>";s:6:"markup";s:100:"
 @component('slider')
+<p></p>
 
 @component('localSearch')
-
-@component('featuredItems')";s:4:"code";N;s:5:"title";s:21:"main::lang.home.title";s:9:"permalink";s:1:"/";s:11:"description";s:0:"";s:6:"layout";s:7:"default";s:8:"[slider]";a:1:{s:4:"code";s:11:"home-slider";}s:13:"[localSearch]";a:2:{s:10:"hideSearch";i:0;s:9:"menusPage";s:11:"local/menus";}s:15:"[featuredItems]";a:5:{s:5:"items";a:4:{i:0;s:1:"6";i:1;s:1:"7";i:2;s:1:"8";i:3;s:1:"9";}s:5:"limit";i:3;s:11:"itemsPerRow";i:3;s:9:"itemWidth";i:400;s:10:"itemHeight";i:300;}}}
+<p></p>
+@component('featuredItems')
+<p></p>";s:4:"code";N;s:5:"title";s:21:"main::lang.home.title";s:9:"permalink";s:1:"/";s:11:"description";s:0:"";s:6:"layout";s:7:"default";s:8:"[slider]";a:1:{s:4:"code";s:11:"home-slider";}s:13:"[localSearch]";a:2:{s:10:"hideSearch";i:0;s:9:"menusPage";s:11:"local/menus";}s:15:"[featuredItems]";a:5:{s:5:"items";a:9:{i:0;s:1:"1";i:1;s:1:"2";i:2;s:1:"3";i:3;s:1:"4";i:4;s:1:"5";i:5;s:2:"6'";i:6;s:1:"7";i:7;s:1:"8";i:8;s:1:"9";}s:5:"limit";i:3;s:11:"itemsPerRow";i:3;s:9:"itemWidth";i:400;s:10:"itemHeight";i:300;}}}

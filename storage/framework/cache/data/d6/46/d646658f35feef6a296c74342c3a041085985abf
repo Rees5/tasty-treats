@@ -1,4 +1,4 @@
-1608120863a:1:{s:22:"social_icons.blade.php";a:5:{s:8:"fileName";s:22:"social_icons.blade.php";s:5:"mTime";i:1608034070;s:7:"content";s:387:"<ul class="social-icons list-inline">
+1608215599a:1:{s:22:"social_icons.blade.php";a:5:{s:8:"fileName";s:22:"social_icons.blade.php";s:5:"mTime";i:1608034070;s:7:"content";s:387:"<ul class="social-icons list-inline">
     @foreach ($socialIcons = $this->theme->social ?? [] as $icon)
         <li>
             <a

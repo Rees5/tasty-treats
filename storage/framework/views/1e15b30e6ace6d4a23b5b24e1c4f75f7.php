@@ -48,13 +48,12 @@
 
     <div class="container">
         <div class="row">
-            <div class="col p-2">
+            <div class="col p-2 myfoo_">
                 <?php echo sprintf(
                     lang('main::lang.site_copyright'),
                     date('Y'),
-                    setting('site_name'),
-                    lang('system::lang.system_name')
-                ).lang('system::lang.system_powered'); ?>
+                    setting('site_name')
+                ); ?>
 
             </div>
         </div>

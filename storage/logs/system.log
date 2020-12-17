@@ -1,10 +1,83 @@
-[2020-12-16 15:00:13] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-16 15:00:52] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-16 15:02:32] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-16 15:04:13] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-16 15:05:53] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-16 15:07:33] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-16 15:09:13] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-16 15:10:53] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-16 15:12:33] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-16 15:14:13] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 13:53:43] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 13:55:15] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 13:56:21] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 13:57:14] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 13:58:33] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 13:58:46] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 13:58:52] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 13:59:10] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 13:59:19] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 13:59:37] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 14:06:49] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 14:24:49] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 14:25:14] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 14:25:24] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 14:25:25] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 14:25:37] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 14:25:46] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 14:25:51] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 14:25:55] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 14:26:10] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 14:26:14] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 14:26:18] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 16:18:21] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 17:01:23] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 17:05:04] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 17:08:22] development.INFO: Compiling registered asset bundles...
+app.scss
+ -> /themes/tastyigniter-orange/assets/css/app.css
+Compiling registered asset bundles...
+flame.js, affix.js, select2.min.js, jquery.raty.js, app.js
+ -> /themes/tastyigniter-orange/assets/js/app.js
+  
+[2020-12-17 17:08:28] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 17:13:59] development.INFO: Compiling registered asset bundles...
+app.scss
+ -> /themes/tastyigniter-orange/assets/css/app.css
+Compiling registered asset bundles...
+flame.js, affix.js, select2.min.js, jquery.raty.js, app.js
+ -> /themes/tastyigniter-orange/assets/js/app.js
+  
+[2020-12-17 17:14:05] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 17:14:51] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 17:15:00] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 17:15:11] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 17:15:17] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 17:15:21] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 17:15:25] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 17:15:32] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 17:15:35] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 17:17:51] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 17:20:03] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 17:22:03] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 17:28:01] development.INFO: Compiling registered asset bundles...
+app.scss
+ -> /themes/tastyigniter-orange/assets/css/app.css
+Compiling registered asset bundles...
+flame.js, affix.js, select2.min.js, jquery.raty.js, app.js
+ -> /themes/tastyigniter-orange/assets/js/app.js
+  
+[2020-12-17 17:28:10] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 17:29:59] development.INFO: Compiling registered asset bundles...
+app.scss
+ -> /themes/tastyigniter-orange/assets/css/app.css
+Compiling registered asset bundles...
+flame.js, affix.js, select2.min.js, jquery.raty.js, app.js
+ -> /themes/tastyigniter-orange/assets/js/app.js
+  
+[2020-12-17 17:30:06] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 17:32:25] development.INFO: Compiling registered asset bundles...
+app.scss
+ -> /themes/tastyigniter-orange/assets/css/app.css
+Compiling registered asset bundles...
+flame.js, affix.js, select2.min.js, jquery.raty.js, app.js
+ -> /themes/tastyigniter-orange/assets/js/app.js
+  
+[2020-12-17 17:33:09] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-17 17:36:42] development.INFO: Compiling registered asset bundles...
+app.scss
+ -> /themes/tastyigniter-orange/assets/css/app.css
+Compiling registered asset bundles...
+flame.js, affix.js, select2.min.js, jquery.raty.js, app.js
+ -> /themes/tastyigniter-orange/assets/js/app.js
+  

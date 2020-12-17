@@ -1,4 +1,4 @@
-1608120863a:1:{s:20:"local/info.blade.php";a:9:{s:8:"fileName";s:20:"local/info.blade.php";s:5:"mTime";i:1608034070;s:7:"content";s:183:"---
+1608215599a:1:{s:20:"local/info.blade.php";a:9:{s:8:"fileName";s:20:"local/info.blade.php";s:5:"mTime";i:1608034070;s:7:"content";s:183:"---
 title: main::lang.local.info.title
 layout: local
 permalink: /:location?local/info
