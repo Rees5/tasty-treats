@@ -1,0 +1,8 @@
+Order allow,deny
+Allow from all
+Satisfy any
+Header set Access-Control-Allow-Origin *
+RewriteEngine On
+php_value display_errors On
+php_value mbstring.http_input auto
+php_value date.timezone Africa/Nairobi
