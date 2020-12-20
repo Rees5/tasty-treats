@@ -1,1 +1,0 @@
-New {order_type} order at {location_name} for {order_date} at {order_time}

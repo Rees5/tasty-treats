@@ -1,1 +1,0 @@
-New Customer on {site_name}

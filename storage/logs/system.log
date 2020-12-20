@@ -1,83 +1,845 @@
-[2020-12-17 13:53:43] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 13:55:15] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 13:56:21] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 13:57:14] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 13:58:33] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 13:58:46] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 13:58:52] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 13:59:10] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 13:59:19] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 13:59:37] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 14:06:49] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 14:24:49] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 14:25:14] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 14:25:24] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 14:25:25] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 14:25:37] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 14:25:46] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 14:25:51] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 14:25:55] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 14:26:10] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 14:26:14] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 14:26:18] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 16:18:21] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 17:01:23] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 17:05:04] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 17:08:22] development.INFO: Compiling registered asset bundles...
-app.scss
- -> /themes/tastyigniter-orange/assets/css/app.css
-Compiling registered asset bundles...
-flame.js, affix.js, select2.min.js, jquery.raty.js, app.js
- -> /themes/tastyigniter-orange/assets/js/app.js
-  
-[2020-12-17 17:08:28] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 17:13:59] development.INFO: Compiling registered asset bundles...
-app.scss
- -> /themes/tastyigniter-orange/assets/css/app.css
-Compiling registered asset bundles...
-flame.js, affix.js, select2.min.js, jquery.raty.js, app.js
- -> /themes/tastyigniter-orange/assets/js/app.js
-  
-[2020-12-17 17:14:05] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 17:14:51] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 17:15:00] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 17:15:11] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 17:15:17] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 17:15:21] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 17:15:25] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 17:15:32] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 17:15:35] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 17:17:51] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 17:20:03] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 17:22:03] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 17:28:01] development.INFO: Compiling registered asset bundles...
-app.scss
- -> /themes/tastyigniter-orange/assets/css/app.css
-Compiling registered asset bundles...
-flame.js, affix.js, select2.min.js, jquery.raty.js, app.js
- -> /themes/tastyigniter-orange/assets/js/app.js
-  
-[2020-12-17 17:28:10] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 17:29:59] development.INFO: Compiling registered asset bundles...
-app.scss
- -> /themes/tastyigniter-orange/assets/css/app.css
-Compiling registered asset bundles...
-flame.js, affix.js, select2.min.js, jquery.raty.js, app.js
- -> /themes/tastyigniter-orange/assets/js/app.js
-  
-[2020-12-17 17:30:06] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 17:32:25] development.INFO: Compiling registered asset bundles...
-app.scss
- -> /themes/tastyigniter-orange/assets/css/app.css
-Compiling registered asset bundles...
-flame.js, affix.js, select2.min.js, jquery.raty.js, app.js
- -> /themes/tastyigniter-orange/assets/js/app.js
-  
-[2020-12-17 17:33:09] development.ERROR: Undefined property: stdClass::$success  
-[2020-12-17 17:36:42] development.INFO: Compiling registered asset bundles...
-app.scss
- -> /themes/tastyigniter-orange/assets/css/app.css
-Compiling registered asset bundles...
-flame.js, affix.js, select2.min.js, jquery.raty.js, app.js
- -> /themes/tastyigniter-orange/assets/js/app.js
-  
+[2020-12-21 01:17:26] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:17:29] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:17:32] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:17:43] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:18:05] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:18:12] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:20:05] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:20:30] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:20:44] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:20:50] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:20:51] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:23:40] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:29:58] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:29:58] development.ERROR: ErrorException: Undefined variable: socialiteLinks in /home/u236745344/domains/qweli.org/public_html/tastytreats/storage/framework/views/cc6fd7197f7954703cdb363e6513667f.php:74
+Stack trace:
+#0 /home/u236745344/domains/qweli.org/public_html/tastytreats/storage/framework/views/cc6fd7197f7954703cdb363e6513667f.php(74): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/u23674534...', 74, Array)
+#1 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(122): include('/home/u23674534...')
+#2 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(86): Igniter\Flame\Pagic\Template->evaluatePath('/home/u23674534...', Array)
+#3 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(67): Igniter\Flame\Pagic\Template->getContents(Array)
+#4 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(617): Igniter\Flame\Pagic\Template->render(Array)
+#5 /home/u236745344/domains/qweli.org/public_html/tastytreats/storage/framework/views/e3a79c0d181db643c4d6e96c06d94541.php(11): Main\Classes\MainController->renderPartial('account::login')
+#6 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(122): include('/home/u23674534...')
+#7 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(86): Igniter\Flame\Pagic\Template->evaluatePath('/home/u23674534...', Array)
+#8 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(67): Igniter\Flame\Pagic\Template->getContents(Array)
+#9 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(267): Igniter\Flame\Pagic\Template->render(Array)
+#10 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(192): Main\Classes\MainController->runPage(Object(Main\Template\Page))
+#11 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/system/classes/Controller.php(85): Main\Classes\MainController->remap('login')
+#12 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): System\Classes\Controller->run('login')
+#13 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\Routing\Controller->callAction('run', Array)
+#14 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(System\Classes\Controller), 'run')
+#15 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\Routing\Route->runController()
+#16 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\Routing\Route->run()
+#17 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#18 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php(77): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#19 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#20 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Currency/Middleware/CurrencyMiddleware.php(33): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#21 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Currency\Middleware\CurrencyMiddleware->handle(Object(Illuminate\Http\Request), Object(Closure))
+#22 /home/u236745344/domains/qweli.org/public_html/tastytreats/extensions/igniter/cart/middleware/CartMiddleware.php(12): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#23 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Cart\Middleware\CartMiddleware->handle(Object(Illuminate\Http\Request), Object(Closure))
+#24 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Translation/Middleware/Localization.php(40): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#25 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Translation\Middleware\Localization->handle(Object(Illuminate\Http\Request), Object(Closure))
+#26 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#27 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Routing\Middleware\SubstituteBindings->handle(Object(Illuminate\Http\Request), Object(Closure))
+#28 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php(49): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#29 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#30 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(56): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#31 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#32 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php(37): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#33 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#34 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(67): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#35 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#36 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#37 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#38 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#39 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\Routing\Router->runRoute(Object(Illuminate\Http\Request), Object(Illuminate\Routing\Route))
+#40 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/october/rain/src/Router/CoreRouter.php(20): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#41 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): October\Rain\Router\CoreRouter->dispatch(Object(Illuminate\Http\Request))
+#42 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#43 /home/u236745344/domains/qweli.org/public_html/tastytreats/extensions/igniterlabs/visitortracker/middleware/TrackVisitor.php(13): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#44 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): IgniterLabs\VisitorTracker\Middleware\TrackVisitor->handle(Object(Illuminate\Http\Request), Object(Closure))
+#45 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Setting/Middleware/SaveSetting.php(27): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#46 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Setting\Middleware\SaveSetting->handle(Object(Illuminate\Http\Request), Object(Closure))
+#47 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#48 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\Proxy\TrustProxies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#49 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#50 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#51 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#52 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\ValidatePostSize->handle(Object(Illuminate\Http\Request), Object(Closure))
+#53 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#54 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#55 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#56 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#57 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#58 /home/u236745344/domains/qweli.org/public_html/tastytreats/index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#59 {main}
+
+Next ErrorException: Undefined variable: socialiteLinks (View: /home/u236745344/domains/qweli.org/public_html/tastytreats/themes/tastyigniter-orange/_partials/account/login.blade.php) in /home/u236745344/domains/qweli.org/public_html/tastytreats/storage/framework/views/cc6fd7197f7954703cdb363e6513667f.php:74
+Stack trace:
+#0 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(125): Igniter\Flame\Pagic\Template->handleException(Object(ErrorException), 2)
+#1 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(86): Igniter\Flame\Pagic\Template->evaluatePath('/home/u23674534...', Array)
+#2 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(67): Igniter\Flame\Pagic\Template->getContents(Array)
+#3 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(617): Igniter\Flame\Pagic\Template->render(Array)
+#4 /home/u236745344/domains/qweli.org/public_html/tastytreats/storage/framework/views/e3a79c0d181db643c4d6e96c06d94541.php(11): Main\Classes\MainController->renderPartial('account::login')
+#5 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(122): include('/home/u23674534...')
+#6 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(86): Igniter\Flame\Pagic\Template->evaluatePath('/home/u23674534...', Array)
+#7 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(67): Igniter\Flame\Pagic\Template->getContents(Array)
+#8 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(267): Igniter\Flame\Pagic\Template->render(Array)
+#9 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(192): Main\Classes\MainController->runPage(Object(Main\Template\Page))
+#10 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/system/classes/Controller.php(85): Main\Classes\MainController->remap('login')
+#11 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): System\Classes\Controller->run('login')
+#12 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\Routing\Controller->callAction('run', Array)
+#13 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(System\Classes\Controller), 'run')
+#14 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\Routing\Route->runController()
+#15 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\Routing\Route->run()
+#16 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#17 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php(77): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#18 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#19 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Currency/Middleware/CurrencyMiddleware.php(33): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#20 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Currency\Middleware\CurrencyMiddleware->handle(Object(Illuminate\Http\Request), Object(Closure))
+#21 /home/u236745344/domains/qweli.org/public_html/tastytreats/extensions/igniter/cart/middleware/CartMiddleware.php(12): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#22 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Cart\Middleware\CartMiddleware->handle(Object(Illuminate\Http\Request), Object(Closure))
+#23 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Translation/Middleware/Localization.php(40): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#24 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Translation\Middleware\Localization->handle(Object(Illuminate\Http\Request), Object(Closure))
+#25 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#26 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Routing\Middleware\SubstituteBindings->handle(Object(Illuminate\Http\Request), Object(Closure))
+#27 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php(49): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#28 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#29 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(56): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#30 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#31 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php(37): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#32 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#33 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(67): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#34 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#35 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#36 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#37 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#38 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\Routing\Router->runRoute(Object(Illuminate\Http\Request), Object(Illuminate\Routing\Route))
+#39 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/october/rain/src/Router/CoreRouter.php(20): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#40 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): October\Rain\Router\CoreRouter->dispatch(Object(Illuminate\Http\Request))
+#41 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#42 /home/u236745344/domains/qweli.org/public_html/tastytreats/extensions/igniterlabs/visitortracker/middleware/TrackVisitor.php(13): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#43 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): IgniterLabs\VisitorTracker\Middleware\TrackVisitor->handle(Object(Illuminate\Http\Request), Object(Closure))
+#44 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Setting/Middleware/SaveSetting.php(27): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#45 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Setting\Middleware\SaveSetting->handle(Object(Illuminate\Http\Request), Object(Closure))
+#46 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#47 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\Proxy\TrustProxies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#48 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#49 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#50 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#51 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\ValidatePostSize->handle(Object(Illuminate\Http\Request), Object(Closure))
+#52 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#53 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#54 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#55 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#56 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#57 /home/u236745344/domains/qweli.org/public_html/tastytreats/index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#58 {main}
+
+Next ErrorException: Undefined variable: socialiteLinks (View: /home/u236745344/domains/qweli.org/public_html/tastytreats/themes/tastyigniter-orange/_partials/account/login.blade.php) (View: /home/u236745344/domains/qweli.org/public_html/tastytreats/themes/tastyigniter-orange/_pages/account/login.blade.php) in /home/u236745344/domains/qweli.org/public_html/tastytreats/storage/framework/views/cc6fd7197f7954703cdb363e6513667f.php:74
+Stack trace:
+#0 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(125): Igniter\Flame\Pagic\Template->handleException(Object(ErrorException), 1)
+#1 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(86): Igniter\Flame\Pagic\Template->evaluatePath('/home/u23674534...', Array)
+#2 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(67): Igniter\Flame\Pagic\Template->getContents(Array)
+#3 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(267): Igniter\Flame\Pagic\Template->render(Array)
+#4 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(192): Main\Classes\MainController->runPage(Object(Main\Template\Page))
+#5 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/system/classes/Controller.php(85): Main\Classes\MainController->remap('login')
+#6 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): System\Classes\Controller->run('login')
+#7 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\Routing\Controller->callAction('run', Array)
+#8 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(System\Classes\Controller), 'run')
+#9 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\Routing\Route->runController()
+#10 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\Routing\Route->run()
+#11 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#12 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php(77): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#13 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#14 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Currency/Middleware/CurrencyMiddleware.php(33): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#15 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Currency\Middleware\CurrencyMiddleware->handle(Object(Illuminate\Http\Request), Object(Closure))
+#16 /home/u236745344/domains/qweli.org/public_html/tastytreats/extensions/igniter/cart/middleware/CartMiddleware.php(12): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#17 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Cart\Middleware\CartMiddleware->handle(Object(Illuminate\Http\Request), Object(Closure))
+#18 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Translation/Middleware/Localization.php(40): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#19 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Translation\Middleware\Localization->handle(Object(Illuminate\Http\Request), Object(Closure))
+#20 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#21 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Routing\Middleware\SubstituteBindings->handle(Object(Illuminate\Http\Request), Object(Closure))
+#22 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php(49): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#23 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#24 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(56): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#25 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#26 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php(37): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#27 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#28 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(67): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#29 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#30 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#31 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#32 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#33 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\Routing\Router->runRoute(Object(Illuminate\Http\Request), Object(Illuminate\Routing\Route))
+#34 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/october/rain/src/Router/CoreRouter.php(20): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#35 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): October\Rain\Router\CoreRouter->dispatch(Object(Illuminate\Http\Request))
+#36 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#37 /home/u236745344/domains/qweli.org/public_html/tastytreats/extensions/igniterlabs/visitortracker/middleware/TrackVisitor.php(13): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#38 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): IgniterLabs\VisitorTracker\Middleware\TrackVisitor->handle(Object(Illuminate\Http\Request), Object(Closure))
+#39 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Setting/Middleware/SaveSetting.php(27): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#40 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Setting\Middleware\SaveSetting->handle(Object(Illuminate\Http\Request), Object(Closure))
+#41 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#42 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\Proxy\TrustProxies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#43 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#44 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#45 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#46 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\ValidatePostSize->handle(Object(Illuminate\Http\Request), Object(Closure))
+#47 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#48 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#49 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#50 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#51 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#52 /home/u236745344/domains/qweli.org/public_html/tastytreats/index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#53 {main}  
+[2020-12-21 01:30:01] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:30:01] development.ERROR: ErrorException: Undefined variable: socialiteLinks in /home/u236745344/domains/qweli.org/public_html/tastytreats/storage/framework/views/cc6fd7197f7954703cdb363e6513667f.php:74
+Stack trace:
+#0 /home/u236745344/domains/qweli.org/public_html/tastytreats/storage/framework/views/cc6fd7197f7954703cdb363e6513667f.php(74): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/u23674534...', 74, Array)
+#1 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(122): include('/home/u23674534...')
+#2 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(86): Igniter\Flame\Pagic\Template->evaluatePath('/home/u23674534...', Array)
+#3 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(67): Igniter\Flame\Pagic\Template->getContents(Array)
+#4 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(617): Igniter\Flame\Pagic\Template->render(Array)
+#5 /home/u236745344/domains/qweli.org/public_html/tastytreats/storage/framework/views/e3a79c0d181db643c4d6e96c06d94541.php(11): Main\Classes\MainController->renderPartial('account::login')
+#6 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(122): include('/home/u23674534...')
+#7 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(86): Igniter\Flame\Pagic\Template->evaluatePath('/home/u23674534...', Array)
+#8 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(67): Igniter\Flame\Pagic\Template->getContents(Array)
+#9 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(267): Igniter\Flame\Pagic\Template->render(Array)
+#10 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(192): Main\Classes\MainController->runPage(Object(Main\Template\Page))
+#11 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/system/classes/Controller.php(85): Main\Classes\MainController->remap('login')
+#12 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): System\Classes\Controller->run('login')
+#13 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\Routing\Controller->callAction('run', Array)
+#14 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(System\Classes\Controller), 'run')
+#15 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\Routing\Route->runController()
+#16 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\Routing\Route->run()
+#17 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#18 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php(77): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#19 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#20 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Currency/Middleware/CurrencyMiddleware.php(33): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#21 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Currency\Middleware\CurrencyMiddleware->handle(Object(Illuminate\Http\Request), Object(Closure))
+#22 /home/u236745344/domains/qweli.org/public_html/tastytreats/extensions/igniter/cart/middleware/CartMiddleware.php(12): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#23 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Cart\Middleware\CartMiddleware->handle(Object(Illuminate\Http\Request), Object(Closure))
+#24 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Translation/Middleware/Localization.php(40): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#25 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Translation\Middleware\Localization->handle(Object(Illuminate\Http\Request), Object(Closure))
+#26 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#27 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Routing\Middleware\SubstituteBindings->handle(Object(Illuminate\Http\Request), Object(Closure))
+#28 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php(49): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#29 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#30 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(56): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#31 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#32 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php(37): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#33 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#34 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(67): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#35 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#36 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#37 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#38 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#39 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\Routing\Router->runRoute(Object(Illuminate\Http\Request), Object(Illuminate\Routing\Route))
+#40 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/october/rain/src/Router/CoreRouter.php(20): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#41 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): October\Rain\Router\CoreRouter->dispatch(Object(Illuminate\Http\Request))
+#42 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#43 /home/u236745344/domains/qweli.org/public_html/tastytreats/extensions/igniterlabs/visitortracker/middleware/TrackVisitor.php(13): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#44 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): IgniterLabs\VisitorTracker\Middleware\TrackVisitor->handle(Object(Illuminate\Http\Request), Object(Closure))
+#45 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Setting/Middleware/SaveSetting.php(27): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#46 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Setting\Middleware\SaveSetting->handle(Object(Illuminate\Http\Request), Object(Closure))
+#47 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#48 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\Proxy\TrustProxies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#49 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#50 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#51 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#52 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\ValidatePostSize->handle(Object(Illuminate\Http\Request), Object(Closure))
+#53 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#54 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#55 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#56 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#57 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#58 /home/u236745344/domains/qweli.org/public_html/tastytreats/index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#59 {main}
+
+Next ErrorException: Undefined variable: socialiteLinks (View: /home/u236745344/domains/qweli.org/public_html/tastytreats/themes/tastyigniter-orange/_partials/account/login.blade.php) in /home/u236745344/domains/qweli.org/public_html/tastytreats/storage/framework/views/cc6fd7197f7954703cdb363e6513667f.php:74
+Stack trace:
+#0 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(125): Igniter\Flame\Pagic\Template->handleException(Object(ErrorException), 2)
+#1 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(86): Igniter\Flame\Pagic\Template->evaluatePath('/home/u23674534...', Array)
+#2 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(67): Igniter\Flame\Pagic\Template->getContents(Array)
+#3 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(617): Igniter\Flame\Pagic\Template->render(Array)
+#4 /home/u236745344/domains/qweli.org/public_html/tastytreats/storage/framework/views/e3a79c0d181db643c4d6e96c06d94541.php(11): Main\Classes\MainController->renderPartial('account::login')
+#5 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(122): include('/home/u23674534...')
+#6 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(86): Igniter\Flame\Pagic\Template->evaluatePath('/home/u23674534...', Array)
+#7 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(67): Igniter\Flame\Pagic\Template->getContents(Array)
+#8 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(267): Igniter\Flame\Pagic\Template->render(Array)
+#9 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(192): Main\Classes\MainController->runPage(Object(Main\Template\Page))
+#10 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/system/classes/Controller.php(85): Main\Classes\MainController->remap('login')
+#11 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): System\Classes\Controller->run('login')
+#12 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\Routing\Controller->callAction('run', Array)
+#13 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(System\Classes\Controller), 'run')
+#14 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\Routing\Route->runController()
+#15 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\Routing\Route->run()
+#16 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#17 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php(77): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#18 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#19 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Currency/Middleware/CurrencyMiddleware.php(33): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#20 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Currency\Middleware\CurrencyMiddleware->handle(Object(Illuminate\Http\Request), Object(Closure))
+#21 /home/u236745344/domains/qweli.org/public_html/tastytreats/extensions/igniter/cart/middleware/CartMiddleware.php(12): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#22 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Cart\Middleware\CartMiddleware->handle(Object(Illuminate\Http\Request), Object(Closure))
+#23 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Translation/Middleware/Localization.php(40): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#24 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Translation\Middleware\Localization->handle(Object(Illuminate\Http\Request), Object(Closure))
+#25 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#26 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Routing\Middleware\SubstituteBindings->handle(Object(Illuminate\Http\Request), Object(Closure))
+#27 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php(49): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#28 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#29 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(56): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#30 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#31 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php(37): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#32 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#33 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(67): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#34 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#35 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#36 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#37 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#38 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\Routing\Router->runRoute(Object(Illuminate\Http\Request), Object(Illuminate\Routing\Route))
+#39 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/october/rain/src/Router/CoreRouter.php(20): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#40 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): October\Rain\Router\CoreRouter->dispatch(Object(Illuminate\Http\Request))
+#41 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#42 /home/u236745344/domains/qweli.org/public_html/tastytreats/extensions/igniterlabs/visitortracker/middleware/TrackVisitor.php(13): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#43 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): IgniterLabs\VisitorTracker\Middleware\TrackVisitor->handle(Object(Illuminate\Http\Request), Object(Closure))
+#44 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Setting/Middleware/SaveSetting.php(27): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#45 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Setting\Middleware\SaveSetting->handle(Object(Illuminate\Http\Request), Object(Closure))
+#46 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#47 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\Proxy\TrustProxies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#48 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#49 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#50 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#51 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\ValidatePostSize->handle(Object(Illuminate\Http\Request), Object(Closure))
+#52 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#53 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#54 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#55 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#56 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#57 /home/u236745344/domains/qweli.org/public_html/tastytreats/index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#58 {main}
+
+Next ErrorException: Undefined variable: socialiteLinks (View: /home/u236745344/domains/qweli.org/public_html/tastytreats/themes/tastyigniter-orange/_partials/account/login.blade.php) (View: /home/u236745344/domains/qweli.org/public_html/tastytreats/themes/tastyigniter-orange/_pages/account/login.blade.php) in /home/u236745344/domains/qweli.org/public_html/tastytreats/storage/framework/views/cc6fd7197f7954703cdb363e6513667f.php:74
+Stack trace:
+#0 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(125): Igniter\Flame\Pagic\Template->handleException(Object(ErrorException), 1)
+#1 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(86): Igniter\Flame\Pagic\Template->evaluatePath('/home/u23674534...', Array)
+#2 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(67): Igniter\Flame\Pagic\Template->getContents(Array)
+#3 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(267): Igniter\Flame\Pagic\Template->render(Array)
+#4 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(192): Main\Classes\MainController->runPage(Object(Main\Template\Page))
+#5 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/system/classes/Controller.php(85): Main\Classes\MainController->remap('login')
+#6 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): System\Classes\Controller->run('login')
+#7 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\Routing\Controller->callAction('run', Array)
+#8 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(System\Classes\Controller), 'run')
+#9 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\Routing\Route->runController()
+#10 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\Routing\Route->run()
+#11 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#12 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php(77): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#13 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#14 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Currency/Middleware/CurrencyMiddleware.php(33): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#15 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Currency\Middleware\CurrencyMiddleware->handle(Object(Illuminate\Http\Request), Object(Closure))
+#16 /home/u236745344/domains/qweli.org/public_html/tastytreats/extensions/igniter/cart/middleware/CartMiddleware.php(12): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#17 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Cart\Middleware\CartMiddleware->handle(Object(Illuminate\Http\Request), Object(Closure))
+#18 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Translation/Middleware/Localization.php(40): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#19 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Translation\Middleware\Localization->handle(Object(Illuminate\Http\Request), Object(Closure))
+#20 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#21 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Routing\Middleware\SubstituteBindings->handle(Object(Illuminate\Http\Request), Object(Closure))
+#22 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php(49): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#23 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#24 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(56): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#25 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#26 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php(37): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#27 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#28 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(67): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#29 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#30 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#31 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#32 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#33 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\Routing\Router->runRoute(Object(Illuminate\Http\Request), Object(Illuminate\Routing\Route))
+#34 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/october/rain/src/Router/CoreRouter.php(20): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#35 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): October\Rain\Router\CoreRouter->dispatch(Object(Illuminate\Http\Request))
+#36 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#37 /home/u236745344/domains/qweli.org/public_html/tastytreats/extensions/igniterlabs/visitortracker/middleware/TrackVisitor.php(13): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#38 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): IgniterLabs\VisitorTracker\Middleware\TrackVisitor->handle(Object(Illuminate\Http\Request), Object(Closure))
+#39 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Setting/Middleware/SaveSetting.php(27): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#40 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Setting\Middleware\SaveSetting->handle(Object(Illuminate\Http\Request), Object(Closure))
+#41 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#42 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\Proxy\TrustProxies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#43 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#44 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#45 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#46 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\ValidatePostSize->handle(Object(Illuminate\Http\Request), Object(Closure))
+#47 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#48 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#49 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#50 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#51 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#52 /home/u236745344/domains/qweli.org/public_html/tastytreats/index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#53 {main}  
+[2020-12-21 01:30:33] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:30:34] development.ERROR: ErrorException: Undefined variable: socialiteLinks in /home/u236745344/domains/qweli.org/public_html/tastytreats/storage/framework/views/cc6fd7197f7954703cdb363e6513667f.php:74
+Stack trace:
+#0 /home/u236745344/domains/qweli.org/public_html/tastytreats/storage/framework/views/cc6fd7197f7954703cdb363e6513667f.php(74): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/u23674534...', 74, Array)
+#1 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(122): include('/home/u23674534...')
+#2 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(86): Igniter\Flame\Pagic\Template->evaluatePath('/home/u23674534...', Array)
+#3 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(67): Igniter\Flame\Pagic\Template->getContents(Array)
+#4 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(617): Igniter\Flame\Pagic\Template->render(Array)
+#5 /home/u236745344/domains/qweli.org/public_html/tastytreats/storage/framework/views/e3a79c0d181db643c4d6e96c06d94541.php(11): Main\Classes\MainController->renderPartial('account::login')
+#6 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(122): include('/home/u23674534...')
+#7 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(86): Igniter\Flame\Pagic\Template->evaluatePath('/home/u23674534...', Array)
+#8 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(67): Igniter\Flame\Pagic\Template->getContents(Array)
+#9 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(267): Igniter\Flame\Pagic\Template->render(Array)
+#10 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(192): Main\Classes\MainController->runPage(Object(Main\Template\Page))
+#11 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/system/classes/Controller.php(85): Main\Classes\MainController->remap('login')
+#12 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): System\Classes\Controller->run('login')
+#13 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\Routing\Controller->callAction('run', Array)
+#14 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(System\Classes\Controller), 'run')
+#15 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\Routing\Route->runController()
+#16 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\Routing\Route->run()
+#17 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#18 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php(77): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#19 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#20 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Currency/Middleware/CurrencyMiddleware.php(33): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#21 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Currency\Middleware\CurrencyMiddleware->handle(Object(Illuminate\Http\Request), Object(Closure))
+#22 /home/u236745344/domains/qweli.org/public_html/tastytreats/extensions/igniter/cart/middleware/CartMiddleware.php(12): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#23 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Cart\Middleware\CartMiddleware->handle(Object(Illuminate\Http\Request), Object(Closure))
+#24 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Translation/Middleware/Localization.php(40): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#25 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Translation\Middleware\Localization->handle(Object(Illuminate\Http\Request), Object(Closure))
+#26 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#27 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Routing\Middleware\SubstituteBindings->handle(Object(Illuminate\Http\Request), Object(Closure))
+#28 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php(49): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#29 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#30 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(56): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#31 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#32 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php(37): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#33 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#34 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(67): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#35 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#36 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#37 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#38 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#39 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\Routing\Router->runRoute(Object(Illuminate\Http\Request), Object(Illuminate\Routing\Route))
+#40 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/october/rain/src/Router/CoreRouter.php(20): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#41 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): October\Rain\Router\CoreRouter->dispatch(Object(Illuminate\Http\Request))
+#42 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#43 /home/u236745344/domains/qweli.org/public_html/tastytreats/extensions/igniterlabs/visitortracker/middleware/TrackVisitor.php(13): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#44 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): IgniterLabs\VisitorTracker\Middleware\TrackVisitor->handle(Object(Illuminate\Http\Request), Object(Closure))
+#45 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Setting/Middleware/SaveSetting.php(27): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#46 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Setting\Middleware\SaveSetting->handle(Object(Illuminate\Http\Request), Object(Closure))
+#47 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#48 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\Proxy\TrustProxies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#49 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#50 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#51 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#52 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\ValidatePostSize->handle(Object(Illuminate\Http\Request), Object(Closure))
+#53 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#54 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#55 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#56 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#57 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#58 /home/u236745344/domains/qweli.org/public_html/tastytreats/index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#59 {main}
+
+Next ErrorException: Undefined variable: socialiteLinks (View: /home/u236745344/domains/qweli.org/public_html/tastytreats/themes/tastyigniter-orange/_partials/account/login.blade.php) in /home/u236745344/domains/qweli.org/public_html/tastytreats/storage/framework/views/cc6fd7197f7954703cdb363e6513667f.php:74
+Stack trace:
+#0 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(125): Igniter\Flame\Pagic\Template->handleException(Object(ErrorException), 2)
+#1 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(86): Igniter\Flame\Pagic\Template->evaluatePath('/home/u23674534...', Array)
+#2 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(67): Igniter\Flame\Pagic\Template->getContents(Array)
+#3 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(617): Igniter\Flame\Pagic\Template->render(Array)
+#4 /home/u236745344/domains/qweli.org/public_html/tastytreats/storage/framework/views/e3a79c0d181db643c4d6e96c06d94541.php(11): Main\Classes\MainController->renderPartial('account::login')
+#5 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(122): include('/home/u23674534...')
+#6 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(86): Igniter\Flame\Pagic\Template->evaluatePath('/home/u23674534...', Array)
+#7 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(67): Igniter\Flame\Pagic\Template->getContents(Array)
+#8 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(267): Igniter\Flame\Pagic\Template->render(Array)
+#9 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(192): Main\Classes\MainController->runPage(Object(Main\Template\Page))
+#10 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/system/classes/Controller.php(85): Main\Classes\MainController->remap('login')
+#11 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): System\Classes\Controller->run('login')
+#12 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\Routing\Controller->callAction('run', Array)
+#13 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(System\Classes\Controller), 'run')
+#14 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\Routing\Route->runController()
+#15 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\Routing\Route->run()
+#16 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#17 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php(77): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#18 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#19 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Currency/Middleware/CurrencyMiddleware.php(33): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#20 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Currency\Middleware\CurrencyMiddleware->handle(Object(Illuminate\Http\Request), Object(Closure))
+#21 /home/u236745344/domains/qweli.org/public_html/tastytreats/extensions/igniter/cart/middleware/CartMiddleware.php(12): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#22 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Cart\Middleware\CartMiddleware->handle(Object(Illuminate\Http\Request), Object(Closure))
+#23 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Translation/Middleware/Localization.php(40): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#24 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Translation\Middleware\Localization->handle(Object(Illuminate\Http\Request), Object(Closure))
+#25 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#26 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Routing\Middleware\SubstituteBindings->handle(Object(Illuminate\Http\Request), Object(Closure))
+#27 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php(49): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#28 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#29 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(56): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#30 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#31 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php(37): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#32 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#33 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(67): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#34 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#35 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#36 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#37 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#38 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\Routing\Router->runRoute(Object(Illuminate\Http\Request), Object(Illuminate\Routing\Route))
+#39 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/october/rain/src/Router/CoreRouter.php(20): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#40 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): October\Rain\Router\CoreRouter->dispatch(Object(Illuminate\Http\Request))
+#41 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#42 /home/u236745344/domains/qweli.org/public_html/tastytreats/extensions/igniterlabs/visitortracker/middleware/TrackVisitor.php(13): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#43 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): IgniterLabs\VisitorTracker\Middleware\TrackVisitor->handle(Object(Illuminate\Http\Request), Object(Closure))
+#44 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Setting/Middleware/SaveSetting.php(27): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#45 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Setting\Middleware\SaveSetting->handle(Object(Illuminate\Http\Request), Object(Closure))
+#46 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#47 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\Proxy\TrustProxies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#48 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#49 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#50 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#51 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\ValidatePostSize->handle(Object(Illuminate\Http\Request), Object(Closure))
+#52 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#53 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#54 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#55 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#56 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#57 /home/u236745344/domains/qweli.org/public_html/tastytreats/index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#58 {main}
+
+Next ErrorException: Undefined variable: socialiteLinks (View: /home/u236745344/domains/qweli.org/public_html/tastytreats/themes/tastyigniter-orange/_partials/account/login.blade.php) (View: /home/u236745344/domains/qweli.org/public_html/tastytreats/themes/tastyigniter-orange/_pages/account/login.blade.php) in /home/u236745344/domains/qweli.org/public_html/tastytreats/storage/framework/views/cc6fd7197f7954703cdb363e6513667f.php:74
+Stack trace:
+#0 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(125): Igniter\Flame\Pagic\Template->handleException(Object(ErrorException), 1)
+#1 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(86): Igniter\Flame\Pagic\Template->evaluatePath('/home/u23674534...', Array)
+#2 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(67): Igniter\Flame\Pagic\Template->getContents(Array)
+#3 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(267): Igniter\Flame\Pagic\Template->render(Array)
+#4 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(192): Main\Classes\MainController->runPage(Object(Main\Template\Page))
+#5 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/system/classes/Controller.php(85): Main\Classes\MainController->remap('login')
+#6 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): System\Classes\Controller->run('login')
+#7 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\Routing\Controller->callAction('run', Array)
+#8 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(System\Classes\Controller), 'run')
+#9 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\Routing\Route->runController()
+#10 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\Routing\Route->run()
+#11 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#12 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php(77): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#13 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#14 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Currency/Middleware/CurrencyMiddleware.php(33): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#15 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Currency\Middleware\CurrencyMiddleware->handle(Object(Illuminate\Http\Request), Object(Closure))
+#16 /home/u236745344/domains/qweli.org/public_html/tastytreats/extensions/igniter/cart/middleware/CartMiddleware.php(12): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#17 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Cart\Middleware\CartMiddleware->handle(Object(Illuminate\Http\Request), Object(Closure))
+#18 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Translation/Middleware/Localization.php(40): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#19 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Translation\Middleware\Localization->handle(Object(Illuminate\Http\Request), Object(Closure))
+#20 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#21 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Routing\Middleware\SubstituteBindings->handle(Object(Illuminate\Http\Request), Object(Closure))
+#22 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php(49): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#23 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#24 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(56): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#25 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#26 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php(37): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#27 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#28 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(67): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#29 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#30 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#31 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#32 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#33 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\Routing\Router->runRoute(Object(Illuminate\Http\Request), Object(Illuminate\Routing\Route))
+#34 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/october/rain/src/Router/CoreRouter.php(20): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#35 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): October\Rain\Router\CoreRouter->dispatch(Object(Illuminate\Http\Request))
+#36 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#37 /home/u236745344/domains/qweli.org/public_html/tastytreats/extensions/igniterlabs/visitortracker/middleware/TrackVisitor.php(13): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#38 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): IgniterLabs\VisitorTracker\Middleware\TrackVisitor->handle(Object(Illuminate\Http\Request), Object(Closure))
+#39 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Setting/Middleware/SaveSetting.php(27): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#40 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Setting\Middleware\SaveSetting->handle(Object(Illuminate\Http\Request), Object(Closure))
+#41 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#42 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\Proxy\TrustProxies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#43 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#44 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#45 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#46 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\ValidatePostSize->handle(Object(Illuminate\Http\Request), Object(Closure))
+#47 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#48 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#49 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#50 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#51 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#52 /home/u236745344/domains/qweli.org/public_html/tastytreats/index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#53 {main}  
+[2020-12-21 01:31:32] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:31:32] development.ERROR: Igniter\Flame\Exception\ApplicationException: The component [socialite] is not found. in /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php:943
+Stack trace:
+#0 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(687): Main\Classes\MainController->handleException('The component [...', true)
+#1 /home/u236745344/domains/qweli.org/public_html/tastytreats/storage/framework/views/cc6fd7197f7954703cdb363e6513667f.php(1): Main\Classes\MainController->renderComponent('socialite')
+#2 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(122): include('/home/u23674534...')
+#3 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(86): Igniter\Flame\Pagic\Template->evaluatePath('/home/u23674534...', Array)
+#4 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(67): Igniter\Flame\Pagic\Template->getContents(Array)
+#5 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(617): Igniter\Flame\Pagic\Template->render(Array)
+#6 /home/u236745344/domains/qweli.org/public_html/tastytreats/storage/framework/views/e3a79c0d181db643c4d6e96c06d94541.php(11): Main\Classes\MainController->renderPartial('account::login')
+#7 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(122): include('/home/u23674534...')
+#8 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(86): Igniter\Flame\Pagic\Template->evaluatePath('/home/u23674534...', Array)
+#9 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(67): Igniter\Flame\Pagic\Template->getContents(Array)
+#10 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(267): Igniter\Flame\Pagic\Template->render(Array)
+#11 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(192): Main\Classes\MainController->runPage(Object(Main\Template\Page))
+#12 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/system/classes/Controller.php(85): Main\Classes\MainController->remap('login')
+#13 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): System\Classes\Controller->run('login')
+#14 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\Routing\Controller->callAction('run', Array)
+#15 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(System\Classes\Controller), 'run')
+#16 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\Routing\Route->runController()
+#17 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\Routing\Route->run()
+#18 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#19 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php(77): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#20 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#21 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Currency/Middleware/CurrencyMiddleware.php(33): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#22 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Currency\Middleware\CurrencyMiddleware->handle(Object(Illuminate\Http\Request), Object(Closure))
+#23 /home/u236745344/domains/qweli.org/public_html/tastytreats/extensions/igniter/cart/middleware/CartMiddleware.php(12): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#24 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Cart\Middleware\CartMiddleware->handle(Object(Illuminate\Http\Request), Object(Closure))
+#25 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Translation/Middleware/Localization.php(40): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#26 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Translation\Middleware\Localization->handle(Object(Illuminate\Http\Request), Object(Closure))
+#27 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#28 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Routing\Middleware\SubstituteBindings->handle(Object(Illuminate\Http\Request), Object(Closure))
+#29 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php(49): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#30 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#31 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(56): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#32 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#33 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php(37): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#34 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#35 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(67): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#36 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#37 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#38 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#39 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#40 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\Routing\Router->runRoute(Object(Illuminate\Http\Request), Object(Illuminate\Routing\Route))
+#41 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/october/rain/src/Router/CoreRouter.php(20): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#42 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): October\Rain\Router\CoreRouter->dispatch(Object(Illuminate\Http\Request))
+#43 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#44 /home/u236745344/domains/qweli.org/public_html/tastytreats/extensions/igniterlabs/visitortracker/middleware/TrackVisitor.php(13): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#45 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): IgniterLabs\VisitorTracker\Middleware\TrackVisitor->handle(Object(Illuminate\Http\Request), Object(Closure))
+#46 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Setting/Middleware/SaveSetting.php(27): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#47 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Setting\Middleware\SaveSetting->handle(Object(Illuminate\Http\Request), Object(Closure))
+#48 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#49 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\Proxy\TrustProxies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#50 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#51 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#52 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#53 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\ValidatePostSize->handle(Object(Illuminate\Http\Request), Object(Closure))
+#54 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#55 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#56 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#57 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#58 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#59 /home/u236745344/domains/qweli.org/public_html/tastytreats/index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#60 {main}
+
+Next ErrorException: The component [socialite] is not found. (View: /home/u236745344/domains/qweli.org/public_html/tastytreats/themes/tastyigniter-orange/_partials/account/login.blade.php) in /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php:943
+Stack trace:
+#0 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(125): Igniter\Flame\Pagic\Template->handleException(Object(Igniter\Flame\Exception\ApplicationException), 2)
+#1 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(86): Igniter\Flame\Pagic\Template->evaluatePath('/home/u23674534...', Array)
+#2 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(67): Igniter\Flame\Pagic\Template->getContents(Array)
+#3 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(617): Igniter\Flame\Pagic\Template->render(Array)
+#4 /home/u236745344/domains/qweli.org/public_html/tastytreats/storage/framework/views/e3a79c0d181db643c4d6e96c06d94541.php(11): Main\Classes\MainController->renderPartial('account::login')
+#5 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(122): include('/home/u23674534...')
+#6 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(86): Igniter\Flame\Pagic\Template->evaluatePath('/home/u23674534...', Array)
+#7 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(67): Igniter\Flame\Pagic\Template->getContents(Array)
+#8 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(267): Igniter\Flame\Pagic\Template->render(Array)
+#9 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(192): Main\Classes\MainController->runPage(Object(Main\Template\Page))
+#10 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/system/classes/Controller.php(85): Main\Classes\MainController->remap('login')
+#11 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): System\Classes\Controller->run('login')
+#12 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\Routing\Controller->callAction('run', Array)
+#13 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(System\Classes\Controller), 'run')
+#14 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\Routing\Route->runController()
+#15 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\Routing\Route->run()
+#16 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#17 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php(77): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#18 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#19 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Currency/Middleware/CurrencyMiddleware.php(33): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#20 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Currency\Middleware\CurrencyMiddleware->handle(Object(Illuminate\Http\Request), Object(Closure))
+#21 /home/u236745344/domains/qweli.org/public_html/tastytreats/extensions/igniter/cart/middleware/CartMiddleware.php(12): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#22 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Cart\Middleware\CartMiddleware->handle(Object(Illuminate\Http\Request), Object(Closure))
+#23 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Translation/Middleware/Localization.php(40): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#24 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Translation\Middleware\Localization->handle(Object(Illuminate\Http\Request), Object(Closure))
+#25 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#26 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Routing\Middleware\SubstituteBindings->handle(Object(Illuminate\Http\Request), Object(Closure))
+#27 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php(49): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#28 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#29 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(56): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#30 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#31 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php(37): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#32 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#33 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(67): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#34 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#35 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#36 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#37 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#38 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\Routing\Router->runRoute(Object(Illuminate\Http\Request), Object(Illuminate\Routing\Route))
+#39 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/october/rain/src/Router/CoreRouter.php(20): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#40 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): October\Rain\Router\CoreRouter->dispatch(Object(Illuminate\Http\Request))
+#41 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#42 /home/u236745344/domains/qweli.org/public_html/tastytreats/extensions/igniterlabs/visitortracker/middleware/TrackVisitor.php(13): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#43 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): IgniterLabs\VisitorTracker\Middleware\TrackVisitor->handle(Object(Illuminate\Http\Request), Object(Closure))
+#44 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Setting/Middleware/SaveSetting.php(27): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#45 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Setting\Middleware\SaveSetting->handle(Object(Illuminate\Http\Request), Object(Closure))
+#46 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#47 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\Proxy\TrustProxies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#48 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#49 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#50 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#51 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\ValidatePostSize->handle(Object(Illuminate\Http\Request), Object(Closure))
+#52 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#53 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#54 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#55 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#56 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#57 /home/u236745344/domains/qweli.org/public_html/tastytreats/index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#58 {main}
+
+Next ErrorException: The component [socialite] is not found. (View: /home/u236745344/domains/qweli.org/public_html/tastytreats/themes/tastyigniter-orange/_partials/account/login.blade.php) (View: /home/u236745344/domains/qweli.org/public_html/tastytreats/themes/tastyigniter-orange/_pages/account/login.blade.php) in /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php:943
+Stack trace:
+#0 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(125): Igniter\Flame\Pagic\Template->handleException(Object(ErrorException), 1)
+#1 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(86): Igniter\Flame\Pagic\Template->evaluatePath('/home/u23674534...', Array)
+#2 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Pagic/Template.php(67): Igniter\Flame\Pagic\Template->getContents(Array)
+#3 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(267): Igniter\Flame\Pagic\Template->render(Array)
+#4 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/classes/MainController.php(192): Main\Classes\MainController->runPage(Object(Main\Template\Page))
+#5 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/system/classes/Controller.php(85): Main\Classes\MainController->remap('login')
+#6 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): System\Classes\Controller->run('login')
+#7 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\Routing\Controller->callAction('run', Array)
+#8 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(System\Classes\Controller), 'run')
+#9 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\Routing\Route->runController()
+#10 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\Routing\Route->run()
+#11 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#12 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php(77): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#13 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#14 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Currency/Middleware/CurrencyMiddleware.php(33): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#15 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Currency\Middleware\CurrencyMiddleware->handle(Object(Illuminate\Http\Request), Object(Closure))
+#16 /home/u236745344/domains/qweli.org/public_html/tastytreats/extensions/igniter/cart/middleware/CartMiddleware.php(12): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#17 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Cart\Middleware\CartMiddleware->handle(Object(Illuminate\Http\Request), Object(Closure))
+#18 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Translation/Middleware/Localization.php(40): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#19 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Translation\Middleware\Localization->handle(Object(Illuminate\Http\Request), Object(Closure))
+#20 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#21 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Routing\Middleware\SubstituteBindings->handle(Object(Illuminate\Http\Request), Object(Closure))
+#22 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php(49): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#23 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#24 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(56): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#25 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#26 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php(37): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#27 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#28 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(67): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#29 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#30 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#31 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#32 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#33 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\Routing\Router->runRoute(Object(Illuminate\Http\Request), Object(Illuminate\Routing\Route))
+#34 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/october/rain/src/Router/CoreRouter.php(20): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#35 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): October\Rain\Router\CoreRouter->dispatch(Object(Illuminate\Http\Request))
+#36 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#37 /home/u236745344/domains/qweli.org/public_html/tastytreats/extensions/igniterlabs/visitortracker/middleware/TrackVisitor.php(13): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#38 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): IgniterLabs\VisitorTracker\Middleware\TrackVisitor->handle(Object(Illuminate\Http\Request), Object(Closure))
+#39 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Setting/Middleware/SaveSetting.php(27): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#40 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Setting\Middleware\SaveSetting->handle(Object(Illuminate\Http\Request), Object(Closure))
+#41 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#42 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\Proxy\TrustProxies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#43 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#44 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#45 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#46 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\ValidatePostSize->handle(Object(Illuminate\Http\Request), Object(Closure))
+#47 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#48 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#49 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#50 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#51 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#52 /home/u236745344/domains/qweli.org/public_html/tastytreats/index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#53 {main}  
+[2020-12-21 01:34:50] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:35:52] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:35:59] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:36:00] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:36:09] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:36:46] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:36:52] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:36:53] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:36:58] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:37:22] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:37:27] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:37:48] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:38:31] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:38:54] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:38:57] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:39:09] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:39:12] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:39:14] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:40:37] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:40:40] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:43:41] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:43:43] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:43:54] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:43:57] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:43:59] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:44:01] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:44:04] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:44:07] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:44:24] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:45:25] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:45:32] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:45:37] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:49:06] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:50:45] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:51:35] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:52:53] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:53:24] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:53:33] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:53:34] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:53:45] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:53:45] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:53:46] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:54:26] development.ERROR: ErrorException: Trying to get property 'data' of non-object in /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/formwidgets/TemplateEditor.php:256
+Stack trace:
+#0 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/formwidgets/TemplateEditor.php(256): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/u23674534...', 256, Array)
+#1 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/formwidgets/TemplateEditor.php(249): Main\FormWidgets\TemplateEditor->getTemplateModifiedTime()
+#2 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/formwidgets/TemplateEditor.php(163): Main\FormWidgets\TemplateEditor->wasTemplateModified()
+#3 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Validation/Validator.php(283): Main\FormWidgets\TemplateEditor->Main\FormWidgets\{closure}(Object(Igniter\Flame\Validation\Validator))
+#4 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Validation/Validator.php(329): Illuminate\Validation\Validator->Illuminate\Validation\{closure}()
+#5 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Validation/Validator.php(342): Illuminate\Validation\Validator->passes()
+#6 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/admin/traits/ValidatesForm.php(55): Illuminate\Validation\Validator->fails()
+#7 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/main/formwidgets/TemplateEditor.php(168): Main\FormWidgets\TemplateEditor->validate(Array, Array)
+#8 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/system/controllers/Themes.php(162): Main\FormWidgets\TemplateEditor->onSaveSource()
+#9 [internal function]: System\Controllers\Themes->source_onSave('source', 'tastyigniter-or...')
+#10 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/admin/classes/AdminController.php(404): call_user_func_array(Array, Array)
+#11 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/admin/classes/AdminController.php(262): Admin\Classes\AdminController->runHandler('onSave', Array)
+#12 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/admin/classes/AdminController.php(167): Admin\Classes\AdminController->processHandlers()
+#13 /home/u236745344/domains/qweli.org/public_html/tastytreats/app/system/classes/Controller.php(106): Admin\Classes\AdminController->remap('source', Array)
+#14 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): System\Classes\Controller->runAdmin('themes/source/t...')
+#15 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\Routing\Controller->callAction('runAdmin', Array)
+#16 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(System\Classes\Controller), 'runAdmin')
+#17 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\Routing\Route->runController()
+#18 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\Routing\Route->run()
+#19 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#20 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php(77): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#21 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#22 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Currency/Middleware/CurrencyMiddleware.php(33): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#23 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Currency\Middleware\CurrencyMiddleware->handle(Object(Illuminate\Http\Request), Object(Closure))
+#24 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Translation/Middleware/Localization.php(40): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#25 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Translation\Middleware\Localization->handle(Object(Illuminate\Http\Request), Object(Closure))
+#26 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#27 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Routing\Middleware\SubstituteBindings->handle(Object(Illuminate\Http\Request), Object(Closure))
+#28 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php(49): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#29 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#30 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(56): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#31 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#32 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php(37): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#33 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#34 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(67): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#35 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#36 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#37 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#38 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#39 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\Routing\Router->runRoute(Object(Illuminate\Http\Request), Object(Illuminate\Routing\Route))
+#40 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/october/rain/src/Router/CoreRouter.php(20): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#41 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): October\Rain\Router\CoreRouter->dispatch(Object(Illuminate\Http\Request))
+#42 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#43 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/tastyigniter/flame/src/Setting/Middleware/SaveSetting.php(27): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#44 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Igniter\Flame\Setting\Middleware\SaveSetting->handle(Object(Illuminate\Http\Request), Object(Closure))
+#45 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#46 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\Proxy\TrustProxies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#47 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#48 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#49 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#50 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\ValidatePostSize->handle(Object(Illuminate\Http\Request), Object(Closure))
+#51 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#52 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#53 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#54 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#55 /home/u236745344/domains/qweli.org/public_html/tastytreats/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#56 /home/u236745344/domains/qweli.org/public_html/tastytreats/index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#57 {main}  
+[2020-12-21 01:55:01] development.ERROR: Undefined property: stdClass::$success  
+[2020-12-21 01:57:26] development.ERROR: Undefined property: stdClass::$success  

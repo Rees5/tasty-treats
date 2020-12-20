@@ -26,6 +26,13 @@
                                     <small>{{ currency_format($featuredItem->getBuyablePrice()) }}</small>
                                 </h4>
                                 <p class="card-text">{{ $featuredItem['menu_description'] }}</p>
+				<p><div id="cart-buttons" 
+class="mt-3">
+            <a href="/default/menus"><button class="checkout-btn btn 
+btn-primary  
+btn-block 
+btn-lg">Order Now</button>
+        </div></p></a>
                             </div>
                         </div>
                     </div>
