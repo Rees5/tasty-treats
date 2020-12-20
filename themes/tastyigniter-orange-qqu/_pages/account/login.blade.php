@@ -21,11 +21,13 @@ description: ''
                     </h1>
 
                     @partial('account::login')
-                  <center><p>Or Login with</p><p>
+                  <hr>
+                  <center><p>Or Login with</p><p class="log_l">
 					@foreach($socialiteLinks as $name => $link)
 						<a href="{{ $link }}"><i class="fab fa-2x fa-{{ $name }}"></i></a>
 					@endforeach
                   </p></center>
+                  <hr>
                     <div class="row">
                         <div class="col-md-5 p-sm-0">
                             <a class="btn btn-link btn-lg" href="{{ site_url('account/reset') }}">
